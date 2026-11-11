@@ -1,0 +1,13 @@
+diff --git a/versions/V51/ModalSelfCal.h b/versions/V53/ModalSelfCal.h
+index 2cea692..b847bf4 100644
+--- a/versions/V51/ModalSelfCal.h
++++ b/versions/V53/ModalSelfCal.h
+@@ -30,7 +30,7 @@ struct ModalSelfCalConfig {
+ 
+     // ---- 实时单帧抗差与离群剔除（防止单点突变/跳变污染全局模态反解）----
+     double max_frame_residual = 2.5; // 单帧拟合残差门限（mm）：|z_i - A_i v| > 该值时自动剔出求解并重算，<=0 关闭
+-    double max_frame_dev = 8.0;      // 单帧绝对偏差门限（mm）：|z_i| > 该值时初检直接剔除，<=0 关闭
++    double max_frame_dev = 0.0;      // 单帧绝对偏差门限（mm）：|z_i| > 该值时初检直接剔除，<=0 关闭
+ 
+     // 外接 / 基准点前缀：不参与学模态与求 v，只按回归载荷扣公共项
+     std::vector<std::string> fit_only_prefixes = {"YJ", "ZJ"};

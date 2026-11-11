@@ -1,0 +1,7 @@
+* text=auto
+versions/** -text
+docs/original_V53_package_integration.txt -text
+*.gz -text
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf

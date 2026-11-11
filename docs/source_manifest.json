@@ -1,0 +1,41 @@
+{
+  "recorded_at": "2026-11-11",
+  "deployment_user_report": {
+    "left": {
+      "version": "V53",
+      "online_date": "2026-11-11"
+    },
+    "right": {
+      "version": "V51"
+    }
+  },
+  "deployment_evidence": "User report. Site DLL, configuration and current state not independently fingerprinted in this import.",
+  "sources": {
+    "V51": {
+      "original_directory": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\1030-modelselfcal-V51",
+      "files": {
+        "ModalSelfCal.h": {
+          "sha256": "f2fc31aa6f7fb0c6dee27ad4ffee28cdd8ff7a44b17a6eeea761870a96e080f3",
+          "bytes": 6417
+        },
+        "ModalSelfCal.cpp": {
+          "sha256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+          "bytes": 57045
+        }
+      }
+    },
+    "V53": {
+      "original_directory": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-V53-1110\\modelselfcalV52\\algorithm",
+      "files": {
+        "ModalSelfCal.h": {
+          "sha256": "cbe62a6f78d2d9c19914616e7d16fdaea6b9dc38033708d5f0af52fa3627b59a",
+          "bytes": 6417
+        },
+        "ModalSelfCal.cpp": {
+          "sha256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+          "bytes": 57045
+        }
+      }
+    }
+  }
+}

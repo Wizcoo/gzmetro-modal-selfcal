@@ -1,0 +1,10 @@
+{
+  "checked_on": "2026-11-11",
+  "compiler": "C:/msys64/ucrt64/bin/g++.exe",
+  "options": ["-std=c++17", "-O2", "-pthread"],
+  "versions": {
+    "V51": {"compile_and_link": "PASS", "daytime_passthrough": "PASS", "state_byte_roundtrip": "PASS", "next_frame_resume": "PASS"},
+    "V53": {"compile_and_link": "PASS", "daytime_passthrough": "PASS", "state_byte_roundtrip": "PASS", "next_frame_resume": "PASS"}
+  },
+  "limits": "Synthetic smoke only. No site DLL fingerprint or physical-displacement accuracy validation. CMake wrapper supplied; local verification used direct g++ invocation."
+}

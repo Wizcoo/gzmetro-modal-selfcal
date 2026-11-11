@@ -1,0 +1,89 @@
+================================================================================
+广州地铁项目 - 模态自校准算法升级包 (modelselfcalV52)
+交付日期: 2026-11-10
+================================================================================
+
+一、版本升级说明 (modelselfcalV52)
+1. 核心改进:
+   - 彻底解决近期强降温及外界扰动导致设备端位移过大（超过原 8mm 阈值）进而触发 
+     DEGRADED_FRAME 降级直通、导致整夜出现 10~15mm 虚假跳变波峰的问题。
+   - 在 ModalSelfCal.h 中将单帧绝对偏差门限默认值由 8.0mm 调整为 0.0mm (max_frame_dev = 0.0)，
+     底层 C++ 按照规范自动关闭单点偏差硬切断逻辑，由 2.5mm 拟合残差动态筛选保障鲁棒性。
+   - 其余所有数学核心、K=3 阶模态分解、22:00~23:00 基线窗、23:00~07:00 修正窗及进出 20 分钟斜坡完全保持不变。
+   - ModalSelfCal.cpp 与生产基线逐字节一致，接口 100% 保持向前兼容。
+
+2. 状态包升级:
+   - 配套生成的 6 台设备状态包指纹已自动与 max_frame_dev=0.0 对齐。
+   - 格式类型: 设备端标准运行包 (MSC_STATE_V50R)
+   - 历史回放覆盖: 2026-11-05、11-07、11-08、11-09（包含 11-07、11-08、11-09 完整 3 夜历史模态）。
+   - 状态截止时间: 2026-11-10 07:59:27.961 (Unix 毫秒: 1794268767961)。
+   - 验证结论: 6 台设备状态包均已通过独立进程 Init/Import/Export 字节级无损等价校验。
+
+================================================================================
+二、目录结构清单
+modelselfcalV52/
+├── algorithm/                      # C++ 算法源码 (直接加入工程编译)
+│   ├── ModalSelfCal.h              # 算法头文件 (ModalSelfCalState 接口)
+│   └── ModalSelfCal.cpp            # 算法实现文件 (单编译单元，无第三方依赖)
+├── state/                          # 6 台设备最新生产状态包 (MSC_STATE_V50R)
+│   ├── 780630499846.state          # 设备 1 (22 点)
+│   ├── 780637798298.state          # 设备 2 (33 点)
+│   ├── 780638271319.state          # 设备 3 (32 点)
+│   ├── 780638310097.state          # 设备 4/5 (94 点, 核心改善设备)
+│   ├── 780638327479.state          # 设备 5/6 (57 点)
+│   └── 780638349768.state          # 设备 6/7 (17 点)
+├── 状态包清单.json                 # 详细的 SHA256 校验和与点名元数据
+└── 给同事_集成与部署说明.txt       # 本说明文件
+
+================================================================================
+三、软件端集成与调用流程 (标准设备端接口)
+
+1. 头文件引入:
+   #include "ModalSelfCal.h"
+   // 或者直接使用 namespace gzmetro_msc 内的 ModalSelfCalState
+
+2. 设备初始化 (Init):
+   gzmetro_msc::ModalSelfCalState msc;
+   std::string err;
+   std::vector<std::string> marker_names = { ... }; // 当前设备全部测点名称
+   if (!msc.Init(device_id, marker_names, &err)) {
+       // 处理初始化失败
+   }
+
+3. 加载状态包 (ImportState):
+   // 从 state/<device_id>.state 文件或数据库读取完整二进制字节流
+   std::string state_bytes = ReadFileOrDb(device_id);
+   gzmetro_msc::ModalSelfCalResumeInfo resume;
+   if (!msc.ImportState(state_bytes, &resume, &err)) {
+       // 处理导入失败 (检查点名名单或参数是否匹配)
+   }
+   // 验证导入信息:
+   // resume.last_timestamp_ms == 1794268767961
+   // resume.history_x == 3 && resume.history_y == 3
+
+4. 逐帧数据处理 (Process):
+   // 接收实时帧 (时间戳须严格递增且 > resume.last_timestamp_ms):
+   gzmetro_msc::ModalSelfCalResult res;
+   // raw_x, raw_y: 本帧各点物理提点值 (mm)，缺失/无效点填 NaN (std::nan(""))
+   if (msc.Process(timestamp_ms, raw_x, raw_y, &res, &err)) {
+       if (res.output_ready) {
+           // res.x, res.y 为修正后的 calX, calY
+           // res.correction_x, res.correction_y 为本帧扣除的共模载荷
+       }
+   }
+
+5. 周期保存状态包 (ExportState):
+   // 建议在每小时整点、02:05 学习窗结束或软件正常退出时导出并持久化:
+   std::string out_bytes;
+   int64_t last_ts = 0;
+   if (msc.ExportState(&out_bytes, &last_ts, &err)) {
+       SaveToDbOrFile(device_id, out_bytes);
+   }
+
+================================================================================
+四、上线部署注意事项
+1. 部署前请备份现场正在运行的 current 状态包与 DLL。
+2. 状态包仅需在首次部署时从本目录 state/ 导入一次；后续系统正常运行时，
+   请使用系统自身周期导出的最新快照续算，切勿在每次启动时强制覆盖！
+3. 白天时段（07:20 ~ 22:00）算法自动处于 PASSTHROUGH 透传状态；
+   夜间 22:00~23:00 自动学习当夜基线，23:00 起自动进入 CORRECTING 修正状态。
