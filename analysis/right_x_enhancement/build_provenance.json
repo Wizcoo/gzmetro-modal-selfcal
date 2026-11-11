@@ -1,0 +1,44 @@
+{
+  "base_PRs": [
+    1,
+    2
+  ],
+  "base_commit": "799d71d011aa16396913675de716d47eb80dfc1f",
+  "branch": "research/right-x-enhancements-20261111",
+  "window_beijing": "2026-11-05 00:00..2026-11-07 15:00",
+  "input_manifest_sha256": "6e07c129db8f927dc785011f82e4891383fe37ad6d8a62c346e16d3ef6059daa",
+  "compiler": "g++.exe (Rev5, Built by MSYS2 project) 16.1.0",
+  "flags": [
+    "-std=c++17",
+    "-O2",
+    "-pthread"
+  ],
+  "executable_producing_final_results_sha256": "9d44dcd08b02343ea1d0ad9c636910ec0757b8ab15f89d7904d1c420ea261dc7",
+  "compiled_research_source_sha256": {
+    "driver.cpp": "5dbf9e11632683a5954fb7092365b2e73c0085705b99579d66636430b4c2a6bb",
+    "research_hook.h": "7d9f2dfd0522905f194ef83df6e7946e4acd8f1282391f05880795e87cf911ea"
+  },
+  "delivered_normalized_source_sha256": {
+    "driver.cpp": "5dbf9e11632683a5954fb7092365b2e73c0085705b99579d66636430b4c2a6bb",
+    "research_hook.h": "7d9f2dfd0522905f194ef83df6e7946e4acd8f1282391f05880795e87cf911ea"
+  },
+  "normalization": "UTF-8 LF review files; producer inputs differ only in line endings if hashes differ",
+  "original_cpp_sha256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+  "original_header_sha256": "f2fc31aa6f7fb0c6dee27ad4ffee28cdd8ff7a44b17a6eeea761870a96e080f3",
+  "numeric_runtime": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1"
+  },
+  "plot_runtime": {
+    "python": "3.12.13",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "logging": "C stdio stderr buffered identically for original and experimental calls; API/X/Y costs included",
+  "protocol": "fixed parameters, development data not blind; spatial rank clarification and centered trust guard documented",
+  "online_state_read_or_written": false,
+  "production_modified": false,
+  "final_X0_recomputed": false
+}

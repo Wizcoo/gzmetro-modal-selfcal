@@ -1,0 +1,865 @@
+device_id,method,night,lag_frames,coefficient_RMS_vs_lagged_original,not_truth,scenario,response_identifiable,source_coefficient_step_norm,coefficient_step95_delay_frames,coefficient_step95_delay_seconds,steady_coefficient_gain_vs_V51,max_coefficient_transient_relative_error
+780639173835,V51,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-05,1,0.240835752814,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-05,2,0.262940288134,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-05,3,0.292110719981,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-05,4,0.309273177084,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-05,5,0.327619271759,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-05,0,0.0479747526148,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-05,1,0.2462063679,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-05,2,0.26600242806,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-05,3,0.295716402695,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-05,4,0.312349088672,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-05,5,0.331961908026,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-05,0,0.083885367022,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-05,1,0.255562474078,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-05,2,0.271695758574,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-05,3,0.301959462946,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-05,4,0.317985808052,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-05,5,0.337319672356,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-05,0,0.043805469886,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-05,1,0.243918952638,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-05,2,0.264999593886,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-05,3,0.293400556082,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-05,4,0.310272360054,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-05,5,0.328511212511,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-05,1,0.240835752814,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-05,2,0.262940288134,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-05,3,0.292110719981,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-05,4,0.309273177084,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-05,5,0.327619271759,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-05,1,0.240835752814,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-05,2,0.262940288134,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-05,3,0.292110719981,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-05,4,0.309273177084,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-05,5,0.327619271759,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-05,1,0.240835752814,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-05,2,0.262940288134,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-05,3,0.292110719981,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-05,4,0.309273177084,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-05,5,0.327619271759,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-05,0,0.10056536082,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-05,1,0.162763021425,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-05,2,0.200541241268,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-05,3,0.234644396149,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-05,4,0.260321325076,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-05,5,0.282805921967,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-05,0,0.0469170592348,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-05,1,0.21917104085,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-05,2,0.250171731388,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-05,3,0.280394528444,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-05,4,0.29761064487,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-05,5,0.315602339872,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-06,1,0.373536845665,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-06,2,0.484570618781,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-06,3,0.573580578387,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-06,4,0.650588476508,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-06,5,0.727253550484,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-06,0,0.215206311308,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-06,1,0.436493874045,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-06,2,0.533001381573,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-06,3,0.617884461949,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-06,4,0.685341566238,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_Huber,2026-11-06,5,0.757606543642,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-06,0,0.280485590059,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-06,1,0.467166965705,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-06,2,0.560215134105,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-06,3,0.639266236164,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-06,4,0.703387543201,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,E_full,2026-11-06,5,0.772324753462,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-06,0,0.0563005878054,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-06,1,0.377045527251,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-06,2,0.48689547525,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-06,3,0.575578899871,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-06,4,0.652494527634,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,A,2026-11-06,5,0.729198394914,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-06,1,0.373536845665,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-06,2,0.484570618781,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-06,3,0.573580578387,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-06,4,0.650588476508,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B0,2026-11-06,5,0.727253550484,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-06,1,0.373536845665,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-06,2,0.484570618781,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-06,3,0.573580578387,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-06,4,0.650588476508,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B1,2026-11-06,5,0.727253550484,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-06,1,0.373536845665,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-06,2,0.484570618781,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-06,3,0.573580578387,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-06,4,0.650588476508,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,B2,2026-11-06,5,0.727253550484,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-06,0,0.197054213555,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-06,1,0.224911865707,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-06,2,0.325582559963,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-06,3,0.423301260377,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-06,4,0.513181345311,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_EMA,2026-11-06,5,0.599052155979,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-06,0,0.0497838524343,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-06,1,0.358600088578,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-06,2,0.476046211562,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-06,3,0.567541447419,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-06,4,0.645799630638,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,D_Kalman,2026-11-06,5,0.722409282052,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639173835,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,4.08928610041e-16
+780639173835,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,8.44544189088e-16
+780639173835,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1.34755239723e-15
+780639173835,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,8.12431076234e-16
+780639173835,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,4.08928610041e-16
+780639173835,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,4.08928610041e-16
+780639173835,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,4.08928610041e-16
+780639173835,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,4,240.007,1,0.5
+780639173835,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,0.00247043745825
+780639173835,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,4,240.009,1,1
+780639173835,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,3.28860205526,0,0,1,1
+780639173835,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,3.6611766031e-16
+780639173835,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,7.21123485982e-16
+780639173835,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1.00528055335e-15
+780639173835,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,5.49271848901e-16
+780639173835,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,3.6611766031e-16
+780639173835,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,3.6611766031e-16
+780639173835,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,3.6611766031e-16
+780639173835,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,4,240.007,1,0.5
+780639173835,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,0.000823479152751
+780639173835,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639173835,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639173835,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639173835,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639173835,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639173835,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639173835,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639173835,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,4,240.009,1,1
+780639173835,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,9.86580616578,0,0,1,1
+780639298317,V51,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-05,1,0.639842037195,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-05,2,0.771394955228,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-05,3,0.757494159941,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-05,4,0.694739109934,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-05,5,0.717654817886,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-05,0,0.0589429238492,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-05,1,0.639280631237,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-05,2,0.772483586152,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-05,3,0.758310267537,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-05,4,0.695965821305,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-05,5,0.717985366289,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-05,0,0.0815309467648,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-05,1,0.637539270407,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-05,2,0.769362333054,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-05,3,0.755865798859,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-05,4,0.692669533716,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-05,5,0.716761725183,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-05,1,0.639842037195,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-05,2,0.771394955228,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-05,3,0.757494159941,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-05,4,0.694739109934,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-05,5,0.717654817886,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-05,1,0.639842037195,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-05,2,0.771394955228,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-05,3,0.757494159941,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-05,4,0.694739109934,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-05,5,0.717654817886,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-05,1,0.639842037195,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-05,2,0.771394955228,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-05,3,0.757494159941,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-05,4,0.694739109934,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-05,5,0.717654817886,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-05,1,0.639842037195,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-05,2,0.771394955228,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-05,3,0.757494159941,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-05,4,0.694739109934,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-05,5,0.717654817886,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-05,0,0.281140971566,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-05,1,0.411307363646,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-05,2,0.554400571681,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-05,3,0.602980337134,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-05,4,0.589190984523,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-05,5,0.595668346564,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-05,0,0.0825326826906,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-05,1,0.615170900237,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-05,2,0.755752756385,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-05,3,0.74411714986,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-05,4,0.683185621503,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-05,5,0.706551541943,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-06,1,0.846002123715,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-06,2,0.980391584797,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-06,3,1.0219414995,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-06,4,1.04419846624,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-06,5,1.01376591826,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-06,0,0.11697372723,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-06,1,0.859780973,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-06,2,0.992126442682,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-06,3,1.0339661988,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-06,4,1.05982426056,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_Huber,2026-11-06,5,1.02816554547,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-06,0,0.151538654046,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-06,1,0.860448993285,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-06,2,0.993626721305,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-06,3,1.03412094571,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-06,4,1.06090615095,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,E_full,2026-11-06,5,1.0285110479,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-06,1,0.846002123715,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-06,2,0.980391584797,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-06,3,1.0219414995,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-06,4,1.04419846624,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,A,2026-11-06,5,1.01376591826,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-06,1,0.846002123715,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-06,2,0.980391584797,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-06,3,1.0219414995,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-06,4,1.04419846624,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B0,2026-11-06,5,1.01376591826,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-06,1,0.846002123715,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-06,2,0.980391584797,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-06,3,1.0219414995,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-06,4,1.04419846624,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B1,2026-11-06,5,1.01376591826,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-06,1,0.846002123715,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-06,2,0.980391584797,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-06,3,1.0219414995,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-06,4,1.04419846624,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,B2,2026-11-06,5,1.01376591826,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-06,0,0.378981606382,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-06,1,0.534991225335,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-06,2,0.692513298194,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-06,3,0.786774748811,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-06,4,0.843610941874,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_EMA,2026-11-06,5,0.851806167876,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-06,0,0.100351667553,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-06,1,0.818664469458,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-06,2,0.960960802103,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-06,3,1.0074771738,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-06,4,1.03067190658,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,D_Kalman,2026-11-06,5,1.00318095577,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639298317,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,4.78762620766e-16
+780639298317,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,6.98213157573e-16
+780639298317,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,9.85935220591e-16
+780639298317,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,4.78762620766e-16
+780639298317,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,4.78762620766e-16
+780639298317,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,4.78762620766e-16
+780639298317,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,4.78762620766e-16
+780639298317,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,4,240.007,1,0.5
+780639298317,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,0.00254998312953
+780639298317,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,6.62079084342e-16
+780639298317,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,9.20560846553e-16
+780639298317,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,2.98124968485e-15
+780639298317,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,6.62079084342e-16
+780639298317,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,6.62079084342e-16
+780639298317,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,6.62079084342e-16
+780639298317,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,6.62079084342e-16
+780639298317,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,4,240.009,1,0.5
+780639298317,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,16.6464909542,0,0,1,0.00905118706323
+780639298317,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,1,0.0325706657341
+780639298317,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,1.00000470452,0.0329177965017
+780639298317,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,1.00094555306,0.0333734618335
+780639298317,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,1,0.0325706657341
+780639298317,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,1,0.0325706657341
+780639298317,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,1,0.0325706657341
+780639298317,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,1,0.0325706657341
+780639298317,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,4,240.007,0.999167966327,0.500705907634
+780639298317,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.8635276522,0,0,0.999933531412,0.0328013056074
+780639298317,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1,0.0535702797432
+780639298317,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1.00323249725,0.0645904130801
+780639298317,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1.00127385055,0.0614381944476
+780639298317,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1,0.0535702797432
+780639298317,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1,0.0535702797432
+780639298317,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1,0.0535702797432
+780639298317,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1,0.0535702797432
+780639298317,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,3,180.013,1.00128406287,0.493827276754
+780639298317,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,49.3468646546,0,0,1.00084609212,0.0546995307143
+780639333715,V51,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-05,1,0.444390173637,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-05,2,0.486960246761,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-05,3,0.497183393205,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-05,4,0.481709741577,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-05,5,0.505347231644,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-05,0,0.0338393194576,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-05,1,0.448523680472,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-05,2,0.490070659699,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-05,3,0.500015506081,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-05,4,0.483903427074,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-05,5,0.509088435105,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-05,0,0.063797151042,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-05,1,0.45419033118,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-05,2,0.49462851146,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-05,3,0.504073001132,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-05,4,0.489299024248,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-05,5,0.51449970284,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-05,1,0.444390173637,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-05,2,0.486960246761,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-05,3,0.497183393205,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-05,4,0.481709741577,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-05,5,0.505347231644,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-05,1,0.444390173637,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-05,2,0.486960246761,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-05,3,0.497183393205,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-05,4,0.481709741577,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-05,5,0.505347231644,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-05,1,0.444390173637,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-05,2,0.486960246761,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-05,3,0.497183393205,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-05,4,0.481709741577,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-05,5,0.505347231644,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-05,1,0.444390173637,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-05,2,0.486960246761,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-05,3,0.497183393205,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-05,4,0.481709741577,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-05,5,0.505347231644,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-05,0,0.190298662148,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-05,1,0.286237794172,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-05,2,0.353076037031,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-05,3,0.388124631683,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-05,4,0.395268325354,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-05,5,0.412876017301,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-05,0,0.0624441630846,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-05,1,0.423694089781,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-05,2,0.47613568,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-05,3,0.48711661278,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-05,4,0.472760587833,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-05,5,0.497469354832,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-06,1,0.570281839691,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-06,2,0.607031675314,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-06,3,0.659687130994,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-06,4,0.683122911992,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-06,5,0.683640917752,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-06,0,0.105342773747,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-06,1,0.578602900782,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-06,2,0.61267025873,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-06,3,0.666975930986,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-06,4,0.686096843173,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_Huber,2026-11-06,5,0.688575312596,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-06,0,0.149800353712,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-06,1,0.587798856892,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-06,2,0.62026399631,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-06,3,0.675196145614,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-06,4,0.694045036923,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,E_full,2026-11-06,5,0.695692124976,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-06,1,0.570281839691,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-06,2,0.607031675314,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-06,3,0.659687130994,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-06,4,0.683122911992,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,A,2026-11-06,5,0.683640917752,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-06,1,0.570281839691,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-06,2,0.607031675314,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-06,3,0.659687130994,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-06,4,0.683122911992,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B0,2026-11-06,5,0.683640917752,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-06,1,0.570281839691,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-06,2,0.607031675314,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-06,3,0.659687130994,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-06,4,0.683122911992,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B1,2026-11-06,5,0.683640917752,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-06,1,0.570281839691,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-06,2,0.607031675314,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-06,3,0.659687130994,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-06,4,0.683122911992,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,B2,2026-11-06,5,0.683640917752,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-06,0,0.247664006398,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-06,1,0.36353529882,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-06,2,0.434651215567,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-06,3,0.501181348074,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-06,4,0.545324399324,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_EMA,2026-11-06,5,0.565794712007,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-06,0,0.0783275729402,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-06,1,0.545214018294,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-06,2,0.59119392322,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-06,3,0.646562047094,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-06,4,0.670846130669,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,D_Kalman,2026-11-06,5,0.671164369115,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639333715,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,False,0,,,,
+780639333715,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639333715,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,False,0,,,,
+780639346578,V51,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-05,1,1.28813709043,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-05,2,1.63250521789,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-05,3,1.56097570219,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-05,4,1.30143124672,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-05,5,1.28933520623,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-05,0,0.066676418353,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-05,1,1.28626444665,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-05,2,1.63260529073,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-05,3,1.5625161607,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-05,4,1.30223390779,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-05,5,1.2914997086,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-05,0,0.105957842862,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-05,1,1.29310896237,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-05,2,1.63603032746,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-05,3,1.566424073,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-05,4,1.30897263581,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-05,5,1.29848397381,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-05,0,0.0656143295178,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-05,1,1.2880922391,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-05,2,1.63111594556,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-05,3,1.55897046705,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-05,4,1.30346622836,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-05,5,1.29578335609,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-05,1,1.28813709043,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-05,2,1.63250521789,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-05,3,1.56097570219,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-05,4,1.30143124672,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-05,5,1.28933520623,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-05,1,1.28813709043,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-05,2,1.63250521789,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-05,3,1.56097570219,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-05,4,1.30143124672,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-05,5,1.28933520623,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-05,1,1.28813709043,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-05,2,1.63250521789,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-05,3,1.56097570219,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-05,4,1.30143124672,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-05,5,1.28933520623,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-05,0,0.575211378566,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-05,1,0.823257122569,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-05,2,1.16352139597,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-05,3,1.25259032987,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-05,4,1.14147282988,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-05,5,1.07920653441,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-05,0,0.040649561413,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-05,1,1.2851932823,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-05,2,1.62976876285,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-05,3,1.55828217999,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-05,4,1.2999740389,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-05,5,1.28782110667,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-06,1,1.46684419542,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-06,2,1.74808814823,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-06,3,1.73879392962,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-06,4,1.85696219839,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-06,5,1.9540086114,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-06,0,0.125110167232,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-06,1,1.47039336857,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-06,2,1.74816027625,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-06,3,1.73909817553,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-06,4,1.85691586803,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_Huber,2026-11-06,5,1.9553066146,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-06,0,0.171614761296,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-06,1,1.48023939681,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-06,2,1.75117796633,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-06,3,1.74214954608,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-06,4,1.85912717426,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,E_full,2026-11-06,5,1.9550329828,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-06,0,0.0817381649456,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-06,1,1.47009701114,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-06,2,1.74875900622,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-06,3,1.74052548708,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-06,4,1.85879654141,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,A,2026-11-06,5,1.95436445005,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-06,1,1.46684419542,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-06,2,1.74808814823,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-06,3,1.73879392962,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-06,4,1.85696219839,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B0,2026-11-06,5,1.9540086114,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-06,1,1.46684419542,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-06,2,1.74808814823,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-06,3,1.73879392962,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-06,4,1.85696219839,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B1,2026-11-06,5,1.9540086114,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-06,1,1.46684419542,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-06,2,1.74808814823,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-06,3,1.73879392962,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-06,4,1.85696219839,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,B2,2026-11-06,5,1.9540086114,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-06,0,0.668234006377,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-06,1,0.923533097656,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-06,2,1.22755537417,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-06,3,1.35102607484,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-06,4,1.47834269108,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_EMA,2026-11-06,5,1.60232621066,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-06,0,0.0443018913769,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-06,1,1.46377638439,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-06,2,1.74620191441,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-06,3,1.73663553915,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-06,4,1.85464709147,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,D_Kalman,2026-11-06,5,1.95168902102,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639346578,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,2.08944696146e-15
+780639346578,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,3.22952639114e-15
+780639346578,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,5.27468488709e-15
+780639346578,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,2.08160929961e-15
+780639346578,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,2.08944696146e-15
+780639346578,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,2.08944696146e-15
+780639346578,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,2.08944696146e-15
+780639346578,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,4,240.007,1,0.5
+780639346578,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,0.00359089917917
+780639346578,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,1.67406467503e-15
+780639346578,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,3.35609949908e-15
+780639346578,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,3.03819866874e-15
+780639346578,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,1.66842544991e-15
+780639346578,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,1.67406467503e-15
+780639346578,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,1.67406467503e-15
+780639346578,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,1.67406467503e-15
+780639346578,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,4,240.009,1,0.5
+780639346578,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,8.55804288938,0,0,1,1.66195719127e-15
+780639346578,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.00760966335547
+780639346578,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0119040267669
+780639346578,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.00741934638294
+780639346578,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.00749561756741
+780639346578,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.00760966335547
+780639346578,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.00760966335547
+780639346578,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.00760966335547
+780639346578,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,4,240.007,1.00008474326,0.5
+780639346578,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.00760966335547
+780639346578,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0226525476795
+780639346578,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0298061202903
+780639346578,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0301346901384
+780639346578,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0231489716053
+780639346578,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0226525476795
+780639346578,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0226525476795
+780639346578,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0226525476795
+780639346578,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,4,240.009,1.0000232652,0.503433984192
+780639346578,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,25.6741286681,0,0,1,0.0213974857192
+780639376393,V51,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-05,1,1.46341518023,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-05,2,1.84658028905,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-05,3,1.71185823804,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-05,4,1.37394511268,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-05,5,1.35757228433,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-05,0,0.095252603834,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-05,1,1.46668678796,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-05,2,1.84532736196,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-05,3,1.71142189889,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-05,4,1.37663949322,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-05,5,1.3580677214,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-05,0,0.151856741918,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-05,1,1.47203159772,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-05,2,1.84423984103,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-05,3,1.70954265421,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-05,4,1.37727290908,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-05,5,1.35999410411,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-05,0,0.0933990274473,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-05,1,1.46976721747,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-05,2,1.85276098851,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-05,3,1.71702176056,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-05,4,1.379137696,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-05,5,1.36361535107,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-05,1,1.46341518023,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-05,2,1.84658028905,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-05,3,1.71185823804,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-05,4,1.37394511268,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-05,5,1.35757228433,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-05,1,1.46341518023,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-05,2,1.84658028905,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-05,3,1.71185823804,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-05,4,1.37394511268,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-05,5,1.35757228433,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-05,1,1.46341518023,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-05,2,1.84658028905,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-05,3,1.71185823804,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-05,4,1.37394511268,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-05,5,1.35757228433,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-05,0,0.652797967319,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-05,1,0.928490469051,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-05,2,1.30356209843,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-05,3,1.37430617372,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-05,4,1.2041151838,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-05,5,1.10615095991,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-05,0,0.0311593727395,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-05,1,1.4618767645,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-05,2,1.84573332719,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-05,3,1.7108646919,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-05,4,1.3734403174,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-05,5,1.35646741934,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-06,1,1.51924459931,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-06,2,1.85415069339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-06,3,1.9384676927,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-06,4,2.0413248855,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-06,5,2.10262727956,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-06,0,0.221503116011,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-06,1,1.54610397392,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-06,2,1.87649001812,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-06,3,1.96184740869,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-06,4,2.06443970939,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_Huber,2026-11-06,5,2.12541549799,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-06,0,0.252899264605,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-06,1,1.55793766761,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-06,2,1.88434216748,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-06,3,1.96935480508,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-06,4,2.06840127893,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,E_full,2026-11-06,5,2.13077773203,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-06,0,0.0675409845309,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-06,1,1.52121986883,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-06,2,1.85516919438,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-06,3,1.93877225036,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-06,4,2.04194394939,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,A,2026-11-06,5,2.1032364276,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-06,1,1.51924459931,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-06,2,1.85415069339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-06,3,1.9384676927,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-06,4,2.0413248855,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B0,2026-11-06,5,2.10262727956,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-06,1,1.51924459931,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-06,2,1.85415069339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-06,3,1.9384676927,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-06,4,2.0413248855,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B1,2026-11-06,5,2.10262727956,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-06,1,1.51924459931,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-06,2,1.85415069339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-06,3,1.9384676927,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-06,4,2.0413248855,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,B2,2026-11-06,5,2.10262727956,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-06,0,0.707191397495,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-06,1,0.951559667508,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-06,2,1.29999171574,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-06,3,1.49115607836,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-06,4,1.65041388176,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_EMA,2026-11-06,5,1.75262261431,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-06,0,0.0386339105667,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-06,1,1.51698997757,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-06,2,1.85342865728,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-06,3,1.9377052708,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-06,4,2.04105956768,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,D_Kalman,2026-11-06,5,2.10211765683,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639376393,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,7.40031658834e-16
+780639376393,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,9.6584082439e-16
+780639376393,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,1.53635887922e-15
+780639376393,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,7.40591781685e-16
+780639376393,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,7.40031658834e-16
+780639376393,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,7.40031658834e-16
+780639376393,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,7.40031658834e-16
+780639376393,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,4,240.007,1,0.5
+780639376393,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,0.00238555916147
+780639376393,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,5.45335277981e-16
+780639376393,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,1.88383134522e-15
+780639376393,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,2.16458454291e-15
+780639376393,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,7.06095739119e-16
+780639376393,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,5.45335277981e-16
+780639376393,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,5.45335277981e-16
+780639376393,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,5.45335277981e-16
+780639376393,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,4,240.009,1,0.5
+780639376393,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,10.1084048018,0,0,1,5.31500484e-16
+780639376393,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,1,0.0367881206948
+780639376393,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,0.999920278819,0.0269867375299
+780639376393,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,1.00064627195,0.016675471386
+780639376393,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,1.00087427035,0.0348599290844
+780639376393,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,1,0.0367881206948
+780639376393,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,1,0.0367881206948
+780639376393,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,1,0.0367881206948
+780639376393,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,4,240.007,0.999306063662,0.505906135172
+780639376393,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.2823895461,0,0,0.999999469291,0.0379423054645
+780639376393,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,1,0.0396908141431
+780639376393,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,0.999752640789,0.0341922317897
+780639376393,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,0.999869610965,0.0288118306654
+780639376393,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,1.00025175887,0.0380367128076
+780639376393,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,1,0.0396908141431
+780639376393,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,1,0.0396908141431
+780639376393,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,1,0.0396908141431
+780639376393,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,4,240.009,0.999732616879,0.500769102504
+780639376393,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,30.3718921588,0,0,0.99999978578,0.0416275501257
+780639414923,V51,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-05,1,0.199781618466,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-05,2,0.248582425588,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-05,3,0.252664385875,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-05,4,0.250910425221,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-05,5,0.269505152339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-05,0,0.00731577747803,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-05,1,0.199160694933,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-05,2,0.247862916619,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-05,3,0.25183385458,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-05,4,0.250523607865,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-05,5,0.269277742504,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-05,0,0.00919370317639,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-05,1,0.198635291611,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-05,2,0.247361867817,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-05,3,0.251209786396,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-05,4,0.250093595139,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-05,5,0.268789871718,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-05,0,0.0140613043796,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-05,1,0.198717164801,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-05,2,0.247008872254,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-05,3,0.250869549926,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-05,4,0.248922123639,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-05,5,0.267664605792,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-05,1,0.199781618466,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-05,2,0.248582425588,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-05,3,0.252664385875,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-05,4,0.250910425221,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-05,5,0.269505152339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-05,1,0.199781618466,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-05,2,0.248582425588,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-05,3,0.252664385875,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-05,4,0.250910425221,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-05,5,0.269505152339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-05,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-05,1,0.199781618466,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-05,2,0.248582425588,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-05,3,0.252664385875,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-05,4,0.250910425221,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-05,5,0.269505152339,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-05,0,0.0860094942477,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-05,1,0.133745344556,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-05,2,0.184094046114,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-05,3,0.206371896207,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-05,4,0.216689988518,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-05,5,0.232402187697,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-05,0,0.0115651884545,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-05,1,0.198259501493,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-05,2,0.247542051148,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-05,3,0.251685712325,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-05,4,0.250403683109,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-05,5,0.269152171076,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-06,1,0.214787126735,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-06,2,0.234326178385,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-06,3,0.253121267633,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-06,4,0.27197175448,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-06,5,0.286676335853,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-06,0,0.0167419676035,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-06,1,0.21435642834,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-06,2,0.234648131789,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-06,3,0.25333016826,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-06,4,0.271360623555,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_Huber,2026-11-06,5,0.286222886752,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-06,0,0.0196076375267,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-06,1,0.214765896847,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-06,2,0.234946480364,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-06,3,0.253834300056,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-06,4,0.272179580803,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,E_full,2026-11-06,5,0.287056838012,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-06,0,0.0146902066341,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-06,1,0.211988394688,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-06,2,0.23191714871,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-06,3,0.250918171584,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-06,4,0.26971150175,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,A,2026-11-06,5,0.284366974885,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-06,1,0.214787126735,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-06,2,0.234326178385,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-06,3,0.253121267633,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-06,4,0.27197175448,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B0,2026-11-06,5,0.286676335853,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-06,1,0.214787126735,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-06,2,0.234326178385,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-06,3,0.253121267633,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-06,4,0.27197175448,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B1,2026-11-06,5,0.286676335853,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-06,0,0,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-06,1,0.214787126735,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-06,2,0.234326178385,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-06,3,0.253121267633,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-06,4,0.27197175448,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,B2,2026-11-06,5,0.286676335853,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-06,0,0.0953784540194,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-06,1,0.136148123318,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-06,2,0.166847274885,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-06,3,0.192290791203,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-06,4,0.215346625498,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_EMA,2026-11-06,5,0.234697006363,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-06,0,0.0149405894898,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-06,1,0.212438073856,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-06,2,0.232952135387,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-06,3,0.25166261506,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-06,4,0.270338520237,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,D_Kalman,2026-11-06,5,0.285565405704,"Observed coefficient lag proxy, not physical displacement delay",,,,,,,
+780639414923,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,9.36277036832e-15
+780639414923,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,3.10310026869e-14
+780639414923,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,1.6052252338e-14
+780639414923,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,9.25882424604e-15
+780639414923,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,9.36277036832e-15
+780639414923,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,9.36277036832e-15
+780639414923,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,9.36277036832e-15
+780639414923,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,4,240.007,1,0.5
+780639414923,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,0.0070822650114
+780639414923,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,6.77114408749e-16
+780639414923,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,1.13506470325e-15
+780639414923,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,1.13565417097e-15
+780639414923,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,9.77093226417e-16
+780639414923,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,6.77114408749e-16
+780639414923,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,6.77114408749e-16
+780639414923,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,6.77114408749e-16
+780639414923,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,4,240.009,1,0.5
+780639414923,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step1,True,2.74855449995,0,0,1,0.0066375697
+780639414923,V51,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,3.02212989422e-15
+780639414923,E_Huber,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,6.52741190628e-16
+780639414923,E_full,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,1.74817547642e-14
+780639414923,A,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,2.85276610307e-15
+780639414923,B0,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,3.02212989422e-15
+780639414923,B1,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,3.02212989422e-15
+780639414923,B2,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,3.02212989422e-15
+780639414923,D_EMA,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,4,240.007,1,0.5
+780639414923,D_Kalman,2026-11-06,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,0.0023607550038
+780639414923,V51,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,4.35118121099e-16
+780639414923,E_Huber,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,7.07077955828e-16
+780639414923,E_full,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,8.17397039037e-16
+780639414923,A,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,6.48903925833e-16
+780639414923,B0,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,4.35118121099e-16
+780639414923,B1,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,4.35118121099e-16
+780639414923,B2,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,4.35118121099e-16
+780639414923,D_EMA,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,4,240.009,1,0.5
+780639414923,D_Kalman,2026-11-07,,,"known observation-mode input; compares to actual original V51 response, not world geometry; no key basis at333715 means no defined mode-shaped input",modal_step3,True,8.24566349986,0,0,1,0.00221252323333

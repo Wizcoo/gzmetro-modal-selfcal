@@ -1,0 +1,7 @@
+device_id,stage,modes,injections,exit_code,elapsed_s,stdout
+780639173835,all,"identity,E_Huber,E_full,A,B0,B1,B2,D_EMA,D_Kalman",True,0,19.844,780639173835 frames=3778 methods=10 snapshots=2 Y_bitwise=PASS identity_bitwise=PASS
+780639298317,all,"identity,E_Huber,E_full,A,B0,B1,B2,D_EMA,D_Kalman",True,0,35.4530000002,780639298317 frames=3778 methods=10 snapshots=2 Y_bitwise=PASS identity_bitwise=PASS
+780639333715,all,"identity,E_Huber,E_full,A,B0,B1,B2,D_EMA,D_Kalman",True,0,27.0160000001,780639333715 frames=3779 methods=10 snapshots=2 Y_bitwise=PASS identity_bitwise=PASS
+780639346578,all,"identity,E_Huber,E_full,A,B0,B1,B2,D_EMA,D_Kalman",True,0,92.797,780639346578 frames=3778 methods=10 snapshots=2 Y_bitwise=PASS identity_bitwise=PASS
+780639376393,all,"identity,E_Huber,E_full,A,B0,B1,B2,D_EMA,D_Kalman",True,0,25.531,780639376393 frames=3779 methods=10 snapshots=2 Y_bitwise=PASS identity_bitwise=PASS
+780639414923,all,"identity,E_Huber,E_full,A,B0,B1,B2,D_EMA,D_Kalman",True,0,6.46899999981,780639414923 frames=3778 methods=10 snapshots=2 Y_bitwise=PASS identity_bitwise=PASS
