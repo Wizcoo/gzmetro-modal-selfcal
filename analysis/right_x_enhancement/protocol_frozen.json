@@ -1,0 +1,70 @@
+{
+  "stage": "frozen before new candidate replay, 2026-11-11",
+  "historical_not_blind": true,
+  "data": "same full six-device deduplicated inputs, 2026-11-05 00:00 to 2026-11-07 15:00 Beijing",
+  "baseline": "unchanged V51 independently compiled and linked; field calX separate observation comparator",
+  "E": {
+    "IRLS_iterations": 5,
+    "Huber_k": 1.345,
+    "scale_floor_mm": 0.02,
+    "positive_weight_floor": 0.05,
+    "historical_precision_weight_clip": [
+      0.25,
+      4
+    ],
+    "leverage_cap": "2*K/n",
+    "fallback": "original V51 on insufficient effective count or singularity"
+  },
+  "A": {
+    "initial_eligible_YJ": 3,
+    "minimum_survivors": 2,
+    "historical_explained_energy_min": 0.8,
+    "historical_median_absolute_gram_coherence_min": 0.7,
+    "reference_outlier_MAD": 3,
+    "reference_trace_fraction": 0.25,
+    "v0_anchor_penalty": 1,
+    "max_incremental_point_correction_mm": 0.25,
+    "LOPO": "exclude target reference before qualification and fit"
+  },
+  "B": {
+    "models": [
+      "translation",
+      "translation_plus_1D",
+      "translation_plus_2D"
+    ],
+    "coordinates": "only stable baseline centerX/Y native proxies, not world geometry",
+    "orthogonalize": "against original A on learning points",
+    "min_references": "dimension+2",
+    "historical_LOPO_energy_reduction_min": 0.2,
+    "condition_max": 30,
+    "fallback": "original V51; never force underidentified spatial fit"
+  },
+  "D": {
+    "EMA_alpha": 0.5,
+    "Kalman_q_over_r": 1,
+    "innovation_gate_standard_deviations": 3,
+    "maximum_step_95pct_response_frames": 5,
+    "large_innovation": "reset to observed v, no freeze",
+    "gap_reset_ms": 90000
+  },
+  "C": "no efficacy experiment without sufficient causal historical nights; quantify degeneracy and mechanisms only",
+  "joint_E_A": "only if standalone E and A show consistent key-channel benefits without injection failure; otherwise do not run joint",
+  "injections": "03:00 Beijing on each available active night; 1/3mm YXJ step, 1mm/1h and3mm/3h ramps, single/multipleYJ faults, both-observerYXJ6, coherentYJ/YXJ, high-leverage learner fault, missing refs/all learners then recovery, negative Y settlement; observation domain only",
+  "reported_failure_screen_not_site_tolerance": {
+    "retained_fraction_interval": [
+      0.9,
+      1.1
+    ],
+    "additional_nontarget_response_mm": 0.1,
+    "key_channel_LF_increase_fraction": 0.1
+  },
+  "state": "empty initial states; all candidates same raw histories; injection suffix clones isolated in-memory snapshots, never site packages",
+  "Y": "original V51 independent instance; compare each candidate internal Y bitwise too",
+  "no_online_change": true,
+  "no_candidate_X0": "missing serial geometry and physical truth",
+  "implementation_clarifications_before_effective_spatial_evaluation": [
+    "Remove projected rank-zero spatial columns, then apply dimension+2 redundancy to independent residual directions. Initial strict-column prototype never applied any B correction; no B performance used to select thresholds.",
+    "Apply A 0.25mm trust bound after baseline-centering too; no parameter changed.",
+    "Fallback without subtracting enhanced baseline offset; require complete learning mask for spatial orthogonality."
+  ]
+}

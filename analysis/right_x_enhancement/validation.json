@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "checks": {
+    "production_V51_V53_SHA_unchanged": true,
+    "source_right_JSONL_parts_SHA_verified": 55,
+    "normal_full_device_frames": 22670,
+    "normal_original_point_observations": 1016365,
+    "independent_full_cold_streams": 60,
+    "injection_cases": 336,
+    "injection_method_continuations": 3360,
+    "Y_bitwise_point_comparisons_in_successful_driver_calls": 41685525,
+    "identity_all_X_bitwise": true,
+    "normal_E_A_same_as_first_stage_bitwise": true,
+    "all_model_A_b_cbar_unchanged": true,
+    "strict_fallback_frames_checked": 14779,
+    "A_max_incremental_correction_mm": 0.13973835609294838,
+    "LOPO_target_injection_independence_rows_checked": 4308,
+    "source_input_shapes_and_reference_injections_checked": true,
+    "summary_LF_step_rows_independently_recomputed": 992,
+    "legacy_PR2_C0_reference_rows_checked": 75564,
+    "EMA_identifiable_step_cases": 20,
+    "EMA_max_delay_frames": 4.0,
+    "Kalman_max_delay_frames": 0.0,
+    "catalogued_files": 54
+  },
+  "not_claimed": [
+    "field-state-exact replay",
+    "world geometry or physical truth",
+    "new-night acceptance",
+    "candidate final X0 or deployment"
+  ],
+  "catalog_excludes_catalog_and_validation": true
+}

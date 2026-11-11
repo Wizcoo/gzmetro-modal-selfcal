@@ -1,0 +1,6 @@
+{
+  "after_stage": "ea",
+  "run_joint_EA": false,
+  "reason": "No stable standalone benefit across all key channels; E worsens 173835 YXJ2, A worsens 376393 YXJ6 and coherent-reference preservation; do not search joint parameters",
+  "no_new_parameter_tuning": true
+}

@@ -1,0 +1,7 @@
+device_id,frames,points,input_sha256,start_beijing,end_beijing,validity,name_order
+780639173835,3778,23,b8895d82f65b0253b5b17d92673438fdaee3ffb9fe1cb45b0bd35ec4252274ba,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,RoiCalState==1 and finite; no ambiguous keys,lexicographic; names embedded in binary
+780639298317,3778,51,60b87701e2fcf7711dc649b5a0b9574711569fd2f5ba82fef417694e4e78848d,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,RoiCalState==1 and finite; no ambiguous keys,lexicographic; names embedded in binary
+780639333715,3779,38,c01158b64bcbcbad6577cb1e4c1d26722a60c16fe5c16b3d83f43eb24d5d826b,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,RoiCalState==1 and finite; no ambiguous keys,lexicographic; names embedded in binary
+780639346578,3778,100,585f29780af8c3a81492140503a9d0562c53ef4f42f7f0dd45cf650f53c965a8,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,RoiCalState==1 and finite; no ambiguous keys,lexicographic; names embedded in binary
+780639376393,3779,45,c5b20fbe932264ab523a5264e22cc7266930cb8a00116518f36e1dcd02dc877b,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,RoiCalState==1 and finite; no ambiguous keys,lexicographic; names embedded in binary
+780639414923,3778,12,5af163d07e3b4472d3585a853e07b05e6b6526a86db405c0c1fdc7fc2902333c,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,RoiCalState==1 and finite; no ambiguous keys,lexicographic; names embedded in binary
