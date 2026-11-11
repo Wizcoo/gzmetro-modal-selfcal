@@ -1,0 +1,6 @@
+marker_name,device_id,bound_rows,mapping,sd_matched_rows,x_max_abs_difference,y_max_abs_difference,x0_max_abs_difference,y0_max_abs_difference,analysis_start_beijing,analysis_end_beijing,nominal_phase_rule
+YXJ2,780639298317,3755,explicit_MarkerData_deviceId,3755,0,0,0,0,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,metric_definitions.md
+YXJ3,780639333715,3755,explicit_MarkerData_deviceId,3755,0,0,0,0,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,metric_definitions.md
+YXJ4,780639346578,3755,explicit_MarkerData_deviceId,3755,0,0,3.293,5.5253,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,metric_definitions.md
+YXJ5,780639376393,3755,explicit_MarkerData_deviceId,3755,0,0,5.6459,7.2504,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,metric_definitions.md
+YXJ6,780639414923,3755,explicit_MarkerData_deviceId,3755,0,0,3.9583,5.2783,2026-11-05T00:00:19.164+08:00,2026-11-07T14:59:00.825+08:00,metric_definitions.md
