@@ -16,6 +16,7 @@
 - V53 原交付目录和文档沿用 V52 字样，头文件注释和状态格式可能仍标为 V50。这里按项目负责人的上线版本命名，具体文件身份见 [来源清单](docs/source_manifest.json)。
 - [逐行差异](docs/V51_to_V53.diff) 记录两个快照的实际变化。
 - [接入说明](docs/integration.md) 以当前头文件为准。`docs/original_V53_package_integration.txt` 是原始交付文档留档，其中历史效果说明和状态包说明不作为本次独立验收结论。
+- [左线参考状态包](reference_states/README.md) 保留版本目录中的历史快照，按设备、时间和配置单独留档；其中 V51 左线参考包不能当作右线当前状态。
 
 V51 默认 `max_frame_dev=8.0`，V53 默认 `max_frame_dev=0.0`。调用方显式配置会覆盖默认值；状态导入同时检查数学参数指纹。
 
