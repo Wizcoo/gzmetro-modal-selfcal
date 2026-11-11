@@ -18,6 +18,7 @@ python analysis/right_x_yj_yxj/scripts/reference_fault_ablation.py
 python analysis/right_x_yj_yxj/scripts/downstream.py
 python analysis/right_x_yj_yxj/scripts/endpoint_coefficients.py
 python analysis/right_x_yj_yxj/scripts/scale_audit.py
+python analysis/right_x_yj_yxj/scripts/phase_common.py
 python analysis/right_x_yj_yxj/scripts/prepare_plot_inputs.py
 python analysis/right_x_yj_yxj/scripts/plots_and_residuals.py
 python analysis/right_x_yj_yxj/scripts/summary_figures.py

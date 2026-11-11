@@ -27,6 +27,11 @@ def main():
         total+=len(q)
     checks['full_resolution_observed_rows_match_deduplicated_source']=total
     checks['observed_channels']=len(paths)
+    phase=pd.read_csv(O/'day_night_common_comparison.csv',dtype={'device_id':str});night=pd.read_csv(O/'yj_residual_common_metrics.csv',dtype={'device_id':str});assert len(phase)==56
+    for _,row in night.iterrows():
+        match=phase[phase.segment.eq('night_'+row.night_date[5:].replace('-',''))&phase.device_id.eq(row.device_id)&phase.field.eq(row.field)];assert len(match)==1
+        close(match.pc1_sd_mm,[row.pc1_sd_mm]);close(match.median_trajectory_lowfreq_range_mm,[row.median_trajectory_lowfreq_range_mm])
+    checks['day_night_common_summary_rows']=len(phase)
     metrics=pd.read_csv(O/'candidate_metrics.csv');n=0;ymatches=0
     for p in (O/'candidate_traces').glob('*.csv'):
         q=pd.read_csv(p,dtype={'observing_device_id':str});ch=q.observing_device_id.iloc[0]+':'+q.markerName.iloc[0];fold=q.fold.iloc[0]
