@@ -1,0 +1,50 @@
+[
+  {
+    "_source_rowid": 1,
+    "markerIndex": 22,
+    "markerName": "ZD1001",
+    "markerPos": 0,
+    "RoiCalState": 1,
+    "scale": 0.7306608831227653,
+    "centerX": 1355.0,
+    "centerY": 1716.0,
+    "x": -0.64227294921875,
+    "y": -8.148722648620605,
+    "calX": -0.64227294921875,
+    "calY": -8.148722648620605,
+    "timestamp": 1793885603366,
+    "dateTime": "2026-11-05 21:33:23.366"
+  },
+  {
+    "_source_rowid": 2,
+    "markerIndex": 30,
+    "markerName": "ZD1201",
+    "markerPos": 0,
+    "RoiCalState": 1,
+    "scale": 0.5420698562895255,
+    "centerX": 2622.0,
+    "centerY": 1440.0,
+    "x": -0.5313313603401184,
+    "y": -8.113728523254395,
+    "calX": -0.5313313603401184,
+    "calY": -8.113728523254395,
+    "timestamp": 1793885603366,
+    "dateTime": "2026-11-05 21:33:23.366"
+  },
+  {
+    "_source_rowid": 3,
+    "markerIndex": 32,
+    "markerName": "ZD1301",
+    "markerPos": 0,
+    "RoiCalState": 1,
+    "scale": 0.47688644148888754,
+    "centerX": 2946.0,
+    "centerY": 1626.0,
+    "x": -0.436767578125,
+    "y": -8.247217178344727,
+    "calX": -0.436767578125,
+    "calY": -8.247217178344727,
+    "timestamp": 1793885603366,
+    "dateTime": "2026-11-05 21:33:23.366"
+  }
+]

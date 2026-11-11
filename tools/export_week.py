@@ -27,28 +27,13 @@ def export_table(c,table,dest,start,end):
             'min_timestamp':None,'max_timestamp':None,'daily_rows':{}}
     if tc is None:
         result['status']='excluded_no_time_column';return result
-    try:
-        lo=c.execute(f'SELECT rowid FROM {q} ORDER BY rowid ASC LIMIT 1').fetchone()
-        hi=c.execute(f'SELECT rowid FROM {q} ORDER BY rowid DESC LIMIT 1').fetchone()
-        if not lo:result['status']='empty_table';return result
-    except sqlite3.DatabaseError as e:
-        # Some rotated copies have a broken right-most btree reference while a
-        # forward aggregate still reads all rows. Do not discard those tables.
-        try:
-            bounds=c.execute(f'SELECT min(rowid),max(rowid) FROM {q}').fetchone()
-            lo=(bounds[0],);hi=(bounds[1],)
-            result['bounds_method']='forward_aggregate_after_reverse_scan_error'
-            if lo[0] is None:result['status']='empty_table';return result
-        except sqlite3.DatabaseError:
-            try:
-                lo=c.execute(f'SELECT rowid FROM {q} LIMIT 1').fetchone()
-                seq=c.execute('SELECT seq FROM sqlite_sequence WHERE name=?',(name,)).fetchone()
-                if not lo or not seq:raise ValueError('No safe rowid upper bound')
-                hi=seq
-                result['bounds_method']='autoincrement_high_water_mark_after_scan_error'
-            except (sqlite3.DatabaseError,ValueError) as fallback:
-                result.update(status='unreadable_table',error=str(e),bounds_error=str(fallback));return result
     writer=None;outpath=None;npart=0;partrows=0;preview=[]
+    def clear_generated():
+        for p in dest.glob(f'{name}.part[0-9][0-9][0-9].jsonl.gz'):
+            p.unlink()
+        p=dest/f'{name}.preview.json'
+        if p.exists():p.unlink()
+    clear_generated()
     def close_part():
         nonlocal writer
         if writer:
@@ -70,6 +55,39 @@ def export_table(c,table,dest,start,end):
         day=stamp(ts)[:10];result['daily_rows'][day]=result['daily_rows'].get(day,0)+1
         if len(preview)<3:preview.append(values)
         if partrows>=100000:close_part()
+    # Forward scan is authoritative. Damaged btrees may return a wrong endpoint
+    # without raising an error when asked for the last row in reverse order.
+    scan_error=None
+    try:
+        cursor=c.execute(f'SELECT rowid,* FROM {q} WHERE "{tc}">=? AND "{tc}"<?',(start,end))
+        while True:
+            rows=cursor.fetchmany(20000)
+            if not rows:break
+            for row in rows:emit(row)
+    except sqlite3.DatabaseError as e:
+        scan_error=str(e)
+    close_part()
+    if scan_error is None:
+        if preview:write_json(dest/f'{name}.preview.json',preview)
+        result['status']='complete_read'
+        result['min_time_beijing']=stamp(result['min_timestamp']);result['max_time_beijing']=stamp(result['max_timestamp'])
+        return result
+    # Discard only generated files for this table before a disjoint salvage
+    # scan. No successful prefix is counted twice.
+    clear_generated();npart=0;partrows=0;preview=[]
+    result.update(rows=0,files=[],min_timestamp=None,max_timestamp=None,daily_rows={},forward_scan_error=scan_error)
+    try:
+        lo,hi=c.execute(f'SELECT min(rowid),max(rowid) FROM {q}').fetchone()
+        result['bounds_method']='forward_aggregate'
+    except sqlite3.DatabaseError:
+        try:
+            first=c.execute(f'SELECT rowid FROM {q} LIMIT 1').fetchone()
+            seq=c.execute('SELECT seq FROM sqlite_sequence WHERE name=?',(name,)).fetchone()
+            if not first or not seq:raise ValueError('No safe rowid upper bound')
+            lo,hi=first[0],seq[0]
+            result['bounds_method']='autoincrement_high_water_mark'
+        except (sqlite3.DatabaseError,ValueError) as fallback:
+            result.update(status='unreadable_table',error=scan_error,bounds_error=str(fallback));return result
     def scan(a,b):
         try:
             rows=c.execute(f'SELECT rowid,* FROM {q} WHERE rowid>=? AND rowid<=? AND "{tc}">=? AND "{tc}"<?',(a,b,start,end)).fetchall()
@@ -79,10 +97,10 @@ def export_table(c,table,dest,start,end):
                 return
             mid=(a+b)//2;scan(a,mid);scan(mid+1,b);return
         for row in rows:emit(row)
-    for a in range(lo[0],hi[0]+1,20000):scan(a,min(a+19999,hi[0]))
+    for a in range(lo,hi+1,20000):scan(a,min(a+19999,hi))
     close_part()
     if preview:write_json(dest/f'{name}.preview.json',preview)
-    result['status']='partial_corrupt' if result['unreadable_rowid_ranges'] else 'complete_read'
+    result['status']='partial_corrupt'
     result['min_time_beijing']=stamp(result['min_timestamp']);result['max_time_beijing']=stamp(result['max_timestamp'])
     return result
 

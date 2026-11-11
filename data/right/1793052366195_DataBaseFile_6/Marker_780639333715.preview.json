@@ -1,0 +1,50 @@
+[
+  {
+    "_source_rowid": 32415,
+    "markerIndex": 13,
+    "markerName": "YD1302",
+    "markerPos": 0,
+    "RoiCalState": 1,
+    "scale": 0.7125,
+    "centerX": 2140.0,
+    "centerY": 3459.0,
+    "x": 0.0776,
+    "y": 0.4569,
+    "calX": 0.0999,
+    "calY": 0.5579,
+    "timestamp": 1793808019164,
+    "dateTime": "2026-11-05 00:00:19.164"
+  },
+  {
+    "_source_rowid": 32416,
+    "markerIndex": 40,
+    "markerName": "YD1402",
+    "markerPos": 0,
+    "RoiCalState": 1,
+    "scale": 0.6067,
+    "centerX": 2418.0,
+    "centerY": 3312.0,
+    "x": 0.0325,
+    "y": 0.6478,
+    "calX": 0.1175,
+    "calY": 0.7872,
+    "timestamp": 1793808019164,
+    "dateTime": "2026-11-05 00:00:19.164"
+  },
+  {
+    "_source_rowid": 32417,
+    "markerIndex": 48,
+    "markerName": "YD1502",
+    "markerPos": 0,
+    "RoiCalState": 1,
+    "scale": 0.5321,
+    "centerX": 2685.0,
+    "centerY": 3210.0,
+    "x": -0.0636,
+    "y": 0.0632,
+    "calX": -0.0939,
+    "calY": 0.2464,
+    "timestamp": 1793808019164,
+    "dateTime": "2026-11-05 00:00:19.164"
+  }
+]
