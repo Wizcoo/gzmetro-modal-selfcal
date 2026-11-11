@@ -2,7 +2,7 @@ from analyze import *
 
 def select_events(md,up):
     membership={n:sorted({dev for dev,d in up.items() if n in set(d.markerName)}) for n in md.markerName.unique()}
-    specs=[{'marker':'YD2603','center':'2026-11-05 11:45','start':'2026-11-05 09:45','end':'2026-11-05 13:15','selection':'largest_daytime_offset_and_observation_reset'},
+    specs=[{'marker':'YD2603','center':'2026-11-05 11:45','start':'2026-11-05 09:45','end':'2026-11-05 13:15','selection':'largest_daytime_offset_and_coordinate_discontinuity'},
            {'marker':'YD1604','center':'2026-11-05 12:49:41.412','start':'2026-11-05 11:30','end':'2026-11-05 13:30','selection':'largest_initial_value_adjustment'}]
     md=md.copy();md['night']=md.night_date
     for night in ['2026-11-05','2026-11-06']:
