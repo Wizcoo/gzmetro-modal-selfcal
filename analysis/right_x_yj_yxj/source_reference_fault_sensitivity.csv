@@ -1,0 +1,13 @@
+mode,channel,max_spurious_YXJ_X_change_mm,Y_changed_max_mm,injection,interpretation
+V51_cold,780639173835:YXJ2,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+V51_cold,780639173835:YXJ3,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+V51_cold,780639298317:YXJ4,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+V51_cold,780639346578:YXJ5,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+V51_cold,780639346578:YXJ6,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+V51_cold,780639376393:YXJ6,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+include_YJ,780639173835:YXJ2,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+include_YJ,780639173835:YXJ3,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+include_YJ,780639298317:YXJ4,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+include_YJ,780639346578:YXJ5,0.0177813672497,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+include_YJ,780639346578:YXJ6,0.0154718207684,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry
+include_YJ,780639376393:YXJ6,0,0,YJ7 only +1mm at 03:00 in all observers,controlled_source_sensitivity_not_world_geometry

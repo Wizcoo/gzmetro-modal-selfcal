@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": {
+    "full_resolution_observed_rows_match_deduplicated_source": 75564,
+    "observed_channels": 20,
+    "candidate_summary_rows_independently_recomputed_from_CSV": 296,
+    "candidate_Y_rows_equal_recorded_Y": 22380,
+    "frozen_fit_nights_B_endpoint_scope_and_global_YJ_LOPO_verified": true,
+    "full_injection_traces_checked": 72,
+    "successful_actual_source_runs": 60,
+    "source_prefix_variants_Y_identical_to_default_source": true,
+    "right_input_gzip_parts_SHA256_verified": 55,
+    "production_V51_V53_hashes_unchanged": true,
+    "catalogued_files_excluding_catalog_and_validation": 198,
+    "all_files_under_2MB_and_text_UTF8_LF": true
+  },
+  "precision": "exported CSV compare atol2e-9 rtol2e-10",
+  "limitations": [
+    "Not exact deployed-state replay",
+    "No serial geometry or recomputed candidate X0",
+    "No physical ground truth or blind prospective acceptance",
+    "Variation reduction is not accuracy"
+  ],
+  "catalog_excludes_itself_and_validation": true
+}
