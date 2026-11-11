@@ -1,0 +1,55 @@
+{
+  "created_beijing_date": "2026-11-11",
+  "repository": "Wizcoo/gzmetro-modal-selfcal",
+  "base_PR": 1,
+  "base_commit": "6f6784de1ac5514436ade29f1dd933a76f5cd621",
+  "analysis_branch": "analysis/right-x-yj-yxj-20261111",
+  "input_manifest_sha256": "6e07c129db8f927dc785011f82e4891383fe37ad6d8a62c346e16d3ef6059daa",
+  "source_identity": {
+    "V51": {
+      "original_directory": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\1030-modelselfcal-V51",
+      "files": {
+        "ModalSelfCal.h": {
+          "sha256": "f2fc31aa6f7fb0c6dee27ad4ffee28cdd8ff7a44b17a6eeea761870a96e080f3",
+          "bytes": 6417
+        },
+        "ModalSelfCal.cpp": {
+          "sha256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+          "bytes": 57045
+        }
+      }
+    },
+    "V53": {
+      "original_directory": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-V53-1110\\modelselfcalV52\\algorithm",
+      "files": {
+        "ModalSelfCal.h": {
+          "sha256": "cbe62a6f78d2d9c19914616e7d16fdaea6b9dc38033708d5f0af52fa3627b59a",
+          "bytes": 6417
+        },
+        "ModalSelfCal.cpp": {
+          "sha256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+          "bytes": 57045
+        }
+      }
+    }
+  },
+  "statistics_runtime": {
+    "python": "3.12.14",
+    "pandas": "3.0.1",
+    "numpy": "2.3.5"
+  },
+  "plot_runtime": {
+    "python": "3.12.13",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2"
+  },
+  "compiler": "g++ C++17 -O2 -pthread, mingw ucrt64",
+  "replay_driver_sha256": "c2844b5d8dcb2575c25f4ac53921daba1d2b5424c43114a459f2d17ff65c9d21",
+  "cache_source": "PR1 load_data.py SHA-verified right JSONL, full business-key dedup; identical cached frames reused; see PR1 load_audit.json",
+  "controlled_source_runs": 60,
+  "production_modified": false,
+  "data_window_beijing": "[2026-11-05 00:00,2026-11-07 15:00], last actual14:59",
+  "physical_truth_and_geometry": "not supplied; no candidate X0 generated",
+  "blind_holdout": false
+}

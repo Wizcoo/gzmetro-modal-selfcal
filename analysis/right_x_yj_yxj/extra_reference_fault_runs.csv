@@ -1,0 +1,7 @@
+device_id,mode,scenario,elapsed_seconds,output_csv,stdout,exit_code,bytes
+780639173835,include_YJ,one_reference_step,0.45299999998,include_YJ_one_reference_step_780639173835.csv,780639173835 include_YJ one_reference_step frames=3778 rows=22668,0,2546791
+780639298317,include_YJ,one_reference_step,0.421999999788,include_YJ_one_reference_step_780639298317.csv,780639298317 include_YJ one_reference_step frames=3778 rows=3778,0,417007
+780639333715,include_YJ,one_reference_step,0.390999999829,include_YJ_one_reference_step_780639333715.csv,780639333715 include_YJ one_reference_step frames=3779 rows=0,0,86
+780639346578,include_YJ,one_reference_step,0.54700000002,include_YJ_one_reference_step_780639346578.csv,780639346578 include_YJ one_reference_step frames=3778 rows=22668,0,2465761
+780639376393,include_YJ,one_reference_step,0.42200000002,include_YJ_one_reference_step_780639376393.csv,780639376393 include_YJ one_reference_step frames=3779 rows=15116,0,1601051
+780639414923,include_YJ,one_reference_step,0.390999999829,include_YJ_one_reference_step_780639414923.csv,780639414923 include_YJ one_reference_step frames=3778 rows=11334,0,1232089

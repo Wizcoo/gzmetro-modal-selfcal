@@ -1,0 +1,9 @@
+fold,fit_night,test_night,field,fit_raw_coefficient_frozen,heldout_pair_r,heldout_pair_slope,response_sign_stable,centered_disagreement_abs_p99_mm,caution
+primary_05_to_06,2026-11-05,2026-11-06,x,0.503092277356,-0.646500921697,-0.374383080827,False,1.00724094222,"sensor-response agreement proxy, not geometric closure or displacement accuracy"
+primary_05_to_06,2026-11-05,2026-11-06,calX,0.503092277356,0.384430616486,0.186688179233,True,0.262185813179,"sensor-response agreement proxy, not geometric closure or displacement accuracy"
+primary_05_to_06,2026-11-05,2026-11-06,A_X_mm,0.503092277356,-0.0626706928734,-0.0152229422879,False,0.854211694688,"sensor-response agreement proxy, not geometric closure or displacement accuracy"
+primary_05_to_06,2026-11-05,2026-11-06,B_X_mm,0.503092277356,-0.207534260632,-0.104768649752,False,0.345538587136,"sensor-response agreement proxy, not geometric closure or displacement accuracy"
+reverse_06_to_05,2026-11-06,2026-11-05,x,-0.374383080827,0.42198739977,0.503092277356,False,1.21633911758,"sensor-response agreement proxy, not geometric closure or displacement accuracy"
+reverse_06_to_05,2026-11-06,2026-11-05,calX,-0.374383080827,0.588905915157,0.642077241873,False,0.299740176887,"sensor-response agreement proxy, not geometric closure or displacement accuracy"
+reverse_06_to_05,2026-11-06,2026-11-05,A_X_mm,-0.374383080827,0.553347673773,0.285560450529,False,0.911058562664,"sensor-response agreement proxy, not geometric closure or displacement accuracy"
+reverse_06_to_05,2026-11-06,2026-11-05,B_X_mm,-0.374383080827,0.589641684272,0.48617551893,False,0.243946432252,"sensor-response agreement proxy, not geometric closure or displacement accuracy"

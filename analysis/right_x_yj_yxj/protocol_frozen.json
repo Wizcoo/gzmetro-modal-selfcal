@@ -1,0 +1,23 @@
+{
+  "created_before_candidate_evaluation": true,
+  "scope": "Upstream observation-domain X research only; Y arrays copied unchanged; no serial-solver/physical-truth claim",
+  "baseline": "Recorded calX, called V51_field_record by user deployment context; not a new exact online-state replay",
+  "primary_fold": {"fit_night": "2026-11-05", "holdout_night": "2026-11-06"},
+  "blind_holdout": false,
+  "prior_exploration": "Both historical nights were already inspected in PR1 and signal analysis; parameters are separated by night, but this is not a blind final acceptance test",
+  "secondary_fold": {"fit_night": "2026-11-06", "holdout_night": "2026-11-05", "purpose": "fixed-recipe reverse stability check, not hyperparameter selection"},
+  "night_metric_window": "23:20-07:00, Beijing; 22:00-23:00 causal per-night baseline",
+  "alignment": "nearest actual timestamp <=2000 ms; no interpolation",
+  "feature": "trailing 5-minute median, minimum 3 real points; reset at gaps >90 seconds",
+  "reference_group": "per-observing-device YJ channels, minimum 2 current valid references; response gains learned on fit night only",
+  "qualification": {"minimum_fit_pairs": 120, "minimum_median_absolute_pair_correlation": 0.7, "minimum_absolute_anchor_gain": 0.05, "maximum_absolute_anchor_gain": 20.0},
+  "regression": {"type": "zero-intercept standardized ridge on fit-night low-frequency target", "alpha": 0.1, "no_holdout_tuning": true},
+  "A_YJ_guided": "raw target X minus prediction from raw YJ group factors; YJ targets use global leave-one-physical-reference-out",
+  "B_YJ_residual_YXJ": "recorded calX of YXJ only minus prediction from corrected YJ residual factors; amplitude limited by fit-night Q99 of fitted correction and Q99 of target residual; slew limited to 2x fit-night Q99 predicted step per minute",
+  "B_graph_scope": "Only YJ groups at the observing-device and explicit MarkerData-bound-device endpoints; no invented geometry or remote fallback",
+  "candidate_gate": "nominal 23:00-07:20 with 20-minute ramps; actual online gate not recorded",
+  "missing_reference_policy": "fall back to recorded baseline, mark not_applied; no replacement with zero measurements",
+  "acceptance_reporting": "Report every held-out YJ/YXJ channel, coverage, low-frequency drift, steps, cross-device agreement and regressions; do not select only favorable channels",
+  "injection": "Known displacement-shape injections in observation coordinates; geometry missing, so these are not validated world-coordinate displacement projections",
+  "production_change": false
+}
