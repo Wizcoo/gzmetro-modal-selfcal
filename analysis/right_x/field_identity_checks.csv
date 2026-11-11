@@ -1,0 +1,7 @@
+date_beijing,axis,n_rows,identity,max_abs_difference_mm,p99_abs_difference_mm,within_0_00011mm_fraction,postFiltered_all_zero,cloud_publication_confirmed
+2026-11-05,X,284817,x0_or_y0 = filtered_axis0 - init_axis,0.0001,0.0001,1,True,False
+2026-11-06,X,289038,x0_or_y0 = filtered_axis0 - init_axis,0.0001,0.0001,1,True,False
+2026-11-07,X,180900,x0_or_y0 = filtered_axis0 - init_axis,0.0001,0.0001,1,True,False
+2026-11-05,Y,284817,x0_or_y0 = filtered_axis0 - init_axis,0.0001,0.0001,1,True,False
+2026-11-06,Y,289038,x0_or_y0 = filtered_axis0 - init_axis,0.0001,0.0001,1,True,False
+2026-11-07,Y,180900,x0_or_y0 = filtered_axis0 - init_axis,0.0001,0.0001,1,True,False

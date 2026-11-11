@@ -1,0 +1,2 @@
+event_id,device_id,marker_name,raw_x_pv_mm,cal_x_pv_mm,raw_y_pv_mm,cal_y_pv_mm,max_abs_correction_x_mm,max_abs_correction_y_mm,point_nonzero_correction_fraction,valid_fraction,raw_x_vs_peer_common_r,device_frames_with_observed_correction_fraction,matched_target_rows,actual_gate,actual_modes_ready
+RX06,780639346578,YD3104,4.01717123,4.01717123,0.841878176,0.841878176,0,0,0,1,0.868696398,1,89,not_recorded,not_recorded

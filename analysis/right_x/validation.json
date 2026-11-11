@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "checks": {
+    "all_marker_summary_PV_and_step99": {
+      "rows": 1614,
+      "max_pv_difference_mm": 3.540884563335567e-08,
+      "tolerance_mm": 1e-06
+    },
+    "all_event_source_rowsets": {
+      "events": 16,
+      "upstream_rows_checked": 115881,
+      "downstream_rows_checked": 22268,
+      "timestamp_resolution": "original milliseconds"
+    },
+    "file_contract": {
+      "files": 202,
+      "maximum_file_bytes": 1749965,
+      "all_files_below_2MB": true,
+      "csv_unit_window_metadata": "file_catalog.csv + metric_definitions.md",
+      "formats": [
+        "UTF8 CSV",
+        "UTF8 JSON",
+        "UTF8 Markdown",
+        "self-authored Python scripts"
+      ]
+    }
+  },
+  "limitations": [
+    "No solver/geometry/online config, state or cloud-publish implementation.",
+    "Statistical attenuation is not physical accuracy."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "baseline_commit": "30b365f6405b10b297ec1546f4bff8b64b911384",
+  "input_data_manifest_sha256": "6e07c129db8f927dc785011f82e4891383fe37ad6d8a62c346e16d3ef6059daa",
+  "runtime": {
+    "pandas": "3.0.1",
+    "numpy": "2.3.5"
+  },
+  "input_window_beijing": {
+    "start_inclusive": "2026-11-05T00:00:00+08:00",
+    "end_inclusive": "2026-11-07T15:00:00+08:00"
+  },
+  "selected_source_ids": [
+    "1793052366195_DataBaseFile_6",
+    "1793052366195_DataBaseFile_7_copy"
+  ],
+  "verified_input_part_count": 55,
+  "production_files": [
+    {
+      "path": "versions/V51/ModalSelfCal.h",
+      "sha256": "f2fc31aa6f7fb0c6dee27ad4ffee28cdd8ff7a44b17a6eeea761870a96e080f3",
+      "unchanged_from_import": true
+    },
+    {
+      "path": "versions/V51/ModalSelfCal.cpp",
+      "sha256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+      "unchanged_from_import": true
+    },
+    {
+      "path": "versions/V53/ModalSelfCal.h",
+      "sha256": "cbe62a6f78d2d9c19914616e7d16fdaea6b9dc38033708d5f0af52fa3627b59a",
+      "unchanged_from_import": true
+    },
+    {
+      "path": "versions/V53/ModalSelfCal.cpp",
+      "sha256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+      "unchanged_from_import": true
+    }
+  ],
+  "external_read_only_references": [
+    {
+      "local_path": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\Dot2DDIC_V0.0.0.51(1)\\Dot2DDIC.h",
+      "sha256": "62b6b19921da84984a74dd156f1a9b2f0858b8be9b2a99377c99b3e81c47268f",
+      "source_content_uploaded": false
+    },
+    {
+      "local_path": "E:\\Wiz\\GZMetro-Cpp\\module\\model-xy0\\ModelXY0.cpp",
+      "sha256": "6e4a0f33152f65b688de92002b19b963fb3ace2e6fa8d519bfbe4945d0918473",
+      "source_content_uploaded": false
+    },
+    {
+      "local_path": "E:\\Wiz\\GZMetro-Cpp\\module\\model-xy0\\ModelXY0.hpp",
+      "sha256": "94c4730ae6f63a86a72dbd7f26bc3ee5ad6c15db20146a12746f8a43a9abc90d",
+      "source_content_uploaded": false
+    }
+  ]
+}

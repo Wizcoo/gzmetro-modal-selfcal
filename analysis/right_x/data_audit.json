@@ -1,0 +1,13 @@
+{
+  "window_start": "2026-11-05T00:00:19.164+08:00",
+  "window_end": "2026-11-07T14:59:00.825+08:00",
+  "downstream_rows": 754755,
+  "marker_name_timestamp_parent_counts": {
+    "1": 503170,
+    "2": 247830,
+    "3": 3755
+  },
+  "mapping_type": "same-name exact-timestamp candidate edges, not verified solver dependency",
+  "empty_deviceId_rows": 735980,
+  "field_unit_evidence": "DLL header declares input/output millimetres; DB write mapping unavailable"
+}
