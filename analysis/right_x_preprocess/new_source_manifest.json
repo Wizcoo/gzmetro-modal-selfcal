@@ -1,0 +1,410 @@
+[
+  {
+    "line": "right",
+    "source_file": "右线/1793052366195_DataBaseFile_8.db",
+    "bytes": 209731584,
+    "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780639173835",
+        "read_rows": 53958,
+        "error": "",
+        "first_ms": 1794039060892,
+        "last_ms": 1794179762940
+      },
+      {
+        "table": "Marker_780639298317",
+        "read_rows": 119697,
+        "error": "",
+        "first_ms": 1794039000893,
+        "last_ms": 1794179762940
+      },
+      {
+        "table": "Marker_780639333715",
+        "read_rows": 89186,
+        "error": "",
+        "first_ms": 1794039000893,
+        "last_ms": 1794179762940
+      },
+      {
+        "table": "Marker_780639346578",
+        "read_rows": 234700,
+        "error": "",
+        "first_ms": 1794039000893,
+        "last_ms": 1794179762940
+      },
+      {
+        "table": "Marker_780639376393",
+        "read_rows": 105570,
+        "error": "",
+        "first_ms": 1794039060892,
+        "last_ms": 1794179762940
+      },
+      {
+        "table": "Marker_780639414923",
+        "read_rows": 28152,
+        "error": "",
+        "first_ms": 1794039060892,
+        "last_ms": 1794179762940
+      }
+    ]
+  },
+  {
+    "line": "right",
+    "source_file": "右线/1793052366195_DataBaseFile_9.db",
+    "bytes": 209760256,
+    "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780639173835",
+        "read_rows": 53981,
+        "error": "",
+        "first_ms": 1794179822947,
+        "last_ms": 1794320584997
+      },
+      {
+        "table": "Marker_780639298317",
+        "read_rows": 119697,
+        "error": "",
+        "first_ms": 1794179822947,
+        "last_ms": 1794320584997
+      },
+      {
+        "table": "Marker_780639333715",
+        "read_rows": 89186,
+        "error": "",
+        "first_ms": 1794179822947,
+        "last_ms": 1794320584997
+      },
+      {
+        "table": "Marker_780639346578",
+        "read_rows": 234700,
+        "error": "",
+        "first_ms": 1794179822947,
+        "last_ms": 1794320584997
+      },
+      {
+        "table": "Marker_780639376393",
+        "read_rows": 105615,
+        "error": "",
+        "first_ms": 1794179822947,
+        "last_ms": 1794320584997
+      },
+      {
+        "table": "Marker_780639414923",
+        "read_rows": 28164,
+        "error": "",
+        "first_ms": 1794179822947,
+        "last_ms": 1794320584997
+      }
+    ]
+  },
+  {
+    "line": "right",
+    "source_file": "右线/1793052366195_DataBaseFile_10.db",
+    "bytes": 190951424,
+    "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780639173835",
+        "read_rows": 49151,
+        "error": "",
+        "first_ms": 1794320644995,
+        "last_ms": 1794448785160
+      },
+      {
+        "table": "Marker_780639298317",
+        "read_rows": 108958,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3958; unreadable_rowid_seeks=0",
+        "first_ms": 1794320644995,
+        "last_ms": 1794448785160
+      },
+      {
+        "table": "Marker_780639333715",
+        "read_rows": 81198,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=1198; unreadable_rowid_seeks=0",
+        "first_ms": 1794320644995,
+        "last_ms": 1794448785160
+      },
+      {
+        "table": "Marker_780639346578",
+        "read_rows": 213604,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3604; unreadable_rowid_seeks=0",
+        "first_ms": 1794320644995,
+        "last_ms": 1794448785160
+      },
+      {
+        "table": "Marker_780639376393",
+        "read_rows": 96123,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=1123; unreadable_rowid_seeks=0",
+        "first_ms": 1794320644995,
+        "last_ms": 1794448785160
+      },
+      {
+        "table": "Marker_780639414923",
+        "read_rows": 25641,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=641; unreadable_rowid_seeks=0",
+        "first_ms": 1794320644995,
+        "last_ms": 1794448785160
+      }
+    ]
+  },
+  {
+    "line": "left",
+    "source_file": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+    "bytes": 209764352,
+    "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780630499846",
+        "read_rows": 28446,
+        "error": "",
+        "first_ms": 1793808022443,
+        "last_ms": 1793885543366
+      },
+      {
+        "table": "Marker_780637798298",
+        "read_rows": 43962,
+        "error": "",
+        "first_ms": 1793808022443,
+        "last_ms": 1793885543366
+      },
+      {
+        "table": "Marker_780638271319",
+        "read_rows": 43928,
+        "error": "",
+        "first_ms": 1793808022443,
+        "last_ms": 1793885543366
+      },
+      {
+        "table": "Marker_780638310097",
+        "read_rows": 121542,
+        "error": "",
+        "first_ms": 1793808022443,
+        "last_ms": 1793885543366
+      },
+      {
+        "table": "Marker_780638327479",
+        "read_rows": 69822,
+        "error": "",
+        "first_ms": 1793808022443,
+        "last_ms": 1793885543366
+      },
+      {
+        "table": "Marker_780638349768",
+        "read_rows": 21981,
+        "error": "",
+        "first_ms": 1793808022443,
+        "last_ms": 1793885543366
+      }
+    ]
+  },
+  {
+    "line": "left",
+    "source_file": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+    "bytes": 72986624,
+    "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780630499846",
+        "read_rows": 18594,
+        "error": "database disk image is malformed; rowwise_salvaged=3594; unreadable_rowid_seeks=0",
+        "first_ms": 1793885603366,
+        "last_ms": 1793936303973
+      },
+      {
+        "table": "Marker_780637798298",
+        "read_rows": 28759,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3759; unreadable_rowid_seeks=0",
+        "first_ms": 1793885603366,
+        "last_ms": 1793936303973
+      },
+      {
+        "table": "Marker_780638271319",
+        "read_rows": 28762,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3762; unreadable_rowid_seeks=0",
+        "first_ms": 1793885603366,
+        "last_ms": 1793936303973
+      },
+      {
+        "table": "Marker_780638310097",
+        "read_rows": 79462,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=4462; unreadable_rowid_seeks=0",
+        "first_ms": 1793885603366,
+        "last_ms": 1793936303973
+      },
+      {
+        "table": "Marker_780638327479",
+        "read_rows": 45527,
+        "error": "",
+        "first_ms": 1793885603366,
+        "last_ms": 1793936183972
+      },
+      {
+        "table": "Marker_780638349768",
+        "read_rows": 14382,
+        "error": "",
+        "first_ms": 1793885603366,
+        "last_ms": 1793936303973
+      }
+    ]
+  },
+  {
+    "line": "left",
+    "source_file": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+    "bytes": 209743872,
+    "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780630499846",
+        "read_rows": 54098,
+        "error": "",
+        "first_ms": 1794033205135,
+        "last_ms": 1794180686908
+      },
+      {
+        "table": "Marker_780637798298",
+        "read_rows": 83606,
+        "error": "",
+        "first_ms": 1794033205135,
+        "last_ms": 1794180686908
+      },
+      {
+        "table": "Marker_780638271319",
+        "read_rows": 83606,
+        "error": "",
+        "first_ms": 1794033205135,
+        "last_ms": 1794180686908
+      },
+      {
+        "table": "Marker_780638310097",
+        "read_rows": 231146,
+        "error": "",
+        "first_ms": 1794033205135,
+        "last_ms": 1794180686908
+      },
+      {
+        "table": "Marker_780638327479",
+        "read_rows": 132786,
+        "error": "",
+        "first_ms": 1794033205135,
+        "last_ms": 1794180686908
+      },
+      {
+        "table": "Marker_780638349768",
+        "read_rows": 41803,
+        "error": "",
+        "first_ms": 1794033205135,
+        "last_ms": 1794180686908
+      }
+    ]
+  },
+  {
+    "line": "left",
+    "source_file": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+    "bytes": 209719296,
+    "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780630499846",
+        "read_rows": 54098,
+        "error": "",
+        "first_ms": 1794180746909,
+        "last_ms": 1794328249510
+      },
+      {
+        "table": "Marker_780637798298",
+        "read_rows": 83606,
+        "error": "",
+        "first_ms": 1794180746909,
+        "last_ms": 1794328249510
+      },
+      {
+        "table": "Marker_780638271319",
+        "read_rows": 83572,
+        "error": "",
+        "first_ms": 1794180746909,
+        "last_ms": 1794328249510
+      },
+      {
+        "table": "Marker_780638310097",
+        "read_rows": 231240,
+        "error": "",
+        "first_ms": 1794180746909,
+        "last_ms": 1794328249510
+      },
+      {
+        "table": "Marker_780638327479",
+        "read_rows": 132840,
+        "error": "",
+        "first_ms": 1794180746909,
+        "last_ms": 1794328249510
+      },
+      {
+        "table": "Marker_780638349768",
+        "read_rows": 41803,
+        "error": "",
+        "first_ms": 1794180746909,
+        "last_ms": 1794328249510
+      }
+    ]
+  },
+  {
+    "line": "left",
+    "source_file": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+    "bytes": 169287680,
+    "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+    "read_mode": "ro immutable, no repair",
+    "tables": [
+      {
+        "table": "Marker_780630499846",
+        "read_rows": 43695,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3695; unreadable_rowid_seeks=0",
+        "first_ms": 1794328309502,
+        "last_ms": 1794447686376
+      },
+      {
+        "table": "Marker_780637798298",
+        "read_rows": 67559,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=2559; unreadable_rowid_seeks=0",
+        "first_ms": 1794328309502,
+        "last_ms": 1794447686376
+      },
+      {
+        "table": "Marker_780638271319",
+        "read_rows": 67562,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=2562; unreadable_rowid_seeks=0",
+        "first_ms": 1794328309502,
+        "last_ms": 1794447686376
+      },
+      {
+        "table": "Marker_780638310097",
+        "read_rows": 186784,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=1784; unreadable_rowid_seeks=0",
+        "first_ms": 1794328309502,
+        "last_ms": 1794447686376
+      },
+      {
+        "table": "Marker_780638327479",
+        "read_rows": 107311,
+        "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=2311; unreadable_rowid_seeks=0",
+        "first_ms": 1794328309502,
+        "last_ms": 1794447686376
+      },
+      {
+        "table": "Marker_780638349768",
+        "read_rows": 33796,
+        "error": "",
+        "first_ms": 1794328309502,
+        "last_ms": 1794447686376
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+ "created_date_beijing":"2026-11-12",
+ "order":"Only old PR1/2/3 signal values examined; new SQLite schema, counts and timestamp bounds inspected before this freeze. New signal values and outcomes not yet read.",
+ "development":"right 2026-11-05 00:00 to2026-11-07 15:00; existing two historical nights, not blind",
+ "primary_validation":"right nights2026-11-07 through2026-11-11 and available daytime through11-12; lock before signal read; no holdout tuning",
+ "secondary_validation":"left available 11-05..11-12, independent line transfer; no mixing of states or geometry",
+ "unchanged_core":"original V51 cpp/h and all mathematical config; each group independently processes full baseline, learning, pooled history and correction",
+ "groups":["B0_raw","B1_N1","B2_N2_ab","B2ll_N2_linear_endpoint_ablation","B3_N3"],
+ "warmup":{"past_valid_samples":31,"max_gap_ms":90000,"sigma_floor_mm":0.0001,"cadence_seconds_nominal":60},
+ "noise_evidence":{"statistic":"lag1 correlation of past raw/residual increments","eligible_range":[-0.75,-0.15],"sigma":"1.4826 MAD of past second differences divided sqrt6; proxy only, not truth"},
+ "N1":{"prediction":"last raw plus median of last3 slopes","innovation_threshold_sigma":6,"spatial_common_protect_fraction":0.25,"individual_isolation_max_fraction":0.1,"other_point_large_step_sigma":3,"required_completed_out_back_pulses":2,"pulse_memory_frames":60,"pulse_return_tolerance_sigma":2,"new_event_within_past_pulse_amplitude_factor":4,"action":"winsorize only recurrent isolated excursion beyond6sigma; unknown first events pass; persistent step releases next frame"},
+ "N2":{"alpha":0.8,"beta":0.2,"reset_innovation_sigma":3,"max_correction_sigma":0.5,"causal":true,"linear_ablation":"past4 plus current real timestamp local linear endpoint, same eligibility and reset/budget"},
+ "N3":{"common":"independent original raw-input V51 shadow at current real timestamp; c=raw-cal_shadow, residual=cal_shadow","residual_filter":"same frozen N2 alpha-beta on statistically eligible residuals","confidence":"shadow modes ready, actual gate>0, all original learning points valid and no original SolveV rejection; reset residual history if unavailable/model-night changes","preserve_common":"project proposed increments on eligible learning subset into null(A_L^T); never spread correction to ineligible points; if rank/redundancy insufficient do not change learning points","minimum_projection_points":5,"non_learning":"eligible fit-only observations can be residual-filtered without modifying current learning coefficients","budget":"scale projected learning increments together to retain orthogonality and <=0.5sigma per point"},
+ "B4":"only after old-data B1/B3 each improve paired known-noise output sensitivity >=10pct median, no >10pct key LF/step deterioration, 1/3mm and ramp retention0.9..1.1 and <=5frames, extra nontarget response<=0.1mm. Otherwise skip; do not use validation to select combination.",
+ "synthetic_noise":{"sigma_mm":[0.034778565088664073,0.06955713017732815,0.1391142603546563],"seed":20261112,"distribution":"independent Gaussian, same additive sequence across methods; whole stream includes baseline/history; paired within-method sensitivity, not physical error"},
+ "waveforms":["each YXJ or ZXJ name single1/3mm step","single/all-node1mm1h and3mm3h ramps","multiple marker step1/3","same original mode direction step1/3","single pulses1/3","repeated independent pulses","reference anomaly3","missing10frames/recovery","consecutive reversals","small persistent step at0.5*old_sigma"],
+ "injection_position":"before preprocessing, after02 learning for suffix tests; own complete preprocessor+V51 snapshot for every group; raw-source noise experiments rerun full history",
+ "screening_not_site_tolerance":{"known_signal_retention":[0.9,1.1],"step_delay_frames_max":5,"extra_nontarget_mm_max":0.1,"key_LF_or_step_worst_increase_fraction":0.1},
+ "no_claims":["all high-frequency change is noise","daytime static truth","pixel accuracy <=1","field-state-exact replay","world geometry projected displacement","candidate finalX0"],
+ "no_production_or_field_state_change":true
+}

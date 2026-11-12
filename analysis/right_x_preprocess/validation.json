@@ -1,0 +1,3671 @@
+{
+  "passed": true,
+  "checks": 911,
+  "clean_point_method_frames": 30883070,
+  "checks_detail": [
+    {
+      "check": "locked_driver.cpp",
+      "passed": true
+    },
+    {
+      "check": "locked_preprocess.h",
+      "passed": true
+    },
+    {
+      "check": "V51_cpp",
+      "passed": true
+    },
+    {
+      "check": "V51_h",
+      "passed": true
+    },
+    {
+      "check": "V51_original_git_bytes_cpp",
+      "passed": true
+    },
+    {
+      "check": "V51_original_git_bytes_h",
+      "passed": true
+    },
+    {
+      "check": "V53_original_git_bytes_cpp",
+      "passed": true
+    },
+    {
+      "check": "V53_original_git_bytes_h",
+      "passed": true
+    },
+    {
+      "check": "frozen_protocol_semantics",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_右线/1793052366195_DataBaseFile_8.db",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_右线/1793052366195_DataBaseFile_9.db",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_右线/1793052366195_DataBaseFile_10.db",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_左线/NewDevice/1793507670403_DataBaseFile_3.db",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_左线/NewDevice/1793507670403_DataBaseFile_4.db",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_左线/NewDevice/1793507670403_DataBaseFile_5.db",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_左线/NewDevice/1793507670403_DataBaseFile_6.db",
+      "passed": true
+    },
+    {
+      "check": "source_readonly_左线/NewDevice/1793507670403_DataBaseFile_7.db",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_input_hash",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_validity",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_projection",
+      "passed": true,
+      "maximum": 2.959871930885427e-17
+    },
+    {
+      "check": "old_780639173835_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639173835_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639173835_PR3_timestamp_names",
+      "passed": true
+    },
+    {
+      "check": "780639173835_PR3_B0_exact",
+      "passed": true
+    },
+    {
+      "check": "780639173835_PR3_Y_exact",
+      "passed": true
+    },
+    {
+      "check": "780639173835_N1_normal_identity",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step1_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step1_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step3_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step3_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step1_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step1_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step3_1793905200000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step3_1793991600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_input_hash",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_validity",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_projection",
+      "passed": true,
+      "maximum": 5.1045593533333156e-17
+    },
+    {
+      "check": "old_780639298317_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639298317_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639298317_PR3_timestamp_names",
+      "passed": true
+    },
+    {
+      "check": "780639298317_PR3_B0_exact",
+      "passed": true
+    },
+    {
+      "check": "780639298317_PR3_Y_exact",
+      "passed": true
+    },
+    {
+      "check": "780639298317_N1_normal_identity",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step1_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step1_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step3_1793905200000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step3_1793991600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_input_hash",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_validity",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_projection",
+      "passed": true,
+      "maximum": 4.2825985813177425e-17
+    },
+    {
+      "check": "old_780639333715_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639333715_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639333715_PR3_timestamp_names",
+      "passed": true
+    },
+    {
+      "check": "780639333715_PR3_B0_exact",
+      "passed": true
+    },
+    {
+      "check": "780639333715_PR3_Y_exact",
+      "passed": true
+    },
+    {
+      "check": "780639333715_N1_normal_identity",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793905200000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793991600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_input_hash",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_validity",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_projection",
+      "passed": true,
+      "maximum": 7.068998164605489e-17
+    },
+    {
+      "check": "old_780639346578_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639346578_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639346578_PR3_timestamp_names",
+      "passed": true
+    },
+    {
+      "check": "780639346578_PR3_B0_exact",
+      "passed": true
+    },
+    {
+      "check": "780639346578_PR3_Y_exact",
+      "passed": true
+    },
+    {
+      "check": "780639346578_N1_normal_identity",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step1_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step1_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step3_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step3_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1793905200000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1793991600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_input_hash",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_validity",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_projection",
+      "passed": true,
+      "maximum": 9.606031248221569e-17
+    },
+    {
+      "check": "old_780639376393_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639376393_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639376393_PR3_timestamp_names",
+      "passed": true
+    },
+    {
+      "check": "780639376393_PR3_B0_exact",
+      "passed": true
+    },
+    {
+      "check": "780639376393_PR3_Y_exact",
+      "passed": true
+    },
+    {
+      "check": "780639376393_N1_normal_identity",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1793905200000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1793991600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_input_hash",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_validity",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_projection",
+      "passed": true,
+      "maximum": 6.5052130349130266e-18
+    },
+    {
+      "check": "old_780639414923_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "old_780639414923_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639414923_PR3_timestamp_names",
+      "passed": true
+    },
+    {
+      "check": "780639414923_PR3_B0_exact",
+      "passed": true
+    },
+    {
+      "check": "780639414923_PR3_Y_exact",
+      "passed": true
+    },
+    {
+      "check": "780639414923_N1_normal_identity",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793905200000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1793991600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_projection",
+      "passed": true,
+      "maximum": 5.453536927602087e-17
+    },
+    {
+      "check": "validation_780639173835_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639173835_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639173835_unchanged_old_prefix",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step1_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step1_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step3_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ2_step3_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step1_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step1_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step3_1794078000000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ3_step3_1794423600000_right_780639173835_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_projection",
+      "passed": true,
+      "maximum": 8.153200337090993e-17
+    },
+    {
+      "check": "validation_780639298317_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639298317_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639298317_unchanged_old_prefix",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step1_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step1_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step3_1794078000000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ4_step3_1794423600000_right_780639298317_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_projection",
+      "passed": true,
+      "maximum": 8.413408858487514e-17
+    },
+    {
+      "check": "validation_780639333715_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639333715_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639333715_unchanged_old_prefix",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_right_780639333715_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_projection",
+      "passed": true,
+      "maximum": 3.152859917587847e-16
+    },
+    {
+      "check": "validation_780639346578_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639346578_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639346578_unchanged_old_prefix",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step1_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step1_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step3_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ5_step3_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1794078000000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1794423600000_right_780639346578_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_projection",
+      "passed": true,
+      "maximum": 1.3400738851920835e-16
+    },
+    {
+      "check": "validation_780639376393_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639376393_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639376393_unchanged_old_prefix",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step1_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1794078000000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "YXJ6_step3_1794423600000_right_780639376393_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_projection",
+      "passed": true,
+      "maximum": 1.8214596497756474e-17
+    },
+    {
+      "check": "validation_780639414923_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780639414923_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "780639414923_unchanged_old_prefix",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_right_780639414923_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_projection",
+      "passed": true,
+      "maximum": 4.098284211995207e-17
+    },
+    {
+      "check": "validation_780630499846_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780630499846_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ2_step1_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ2_step1_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ2_step3_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ2_step3_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ3_step1_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ3_step1_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ3_step3_1794078000000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ3_step3_1794423600000_left_780630499846_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_projection",
+      "passed": true,
+      "maximum": 7.45931094670027e-17
+    },
+    {
+      "check": "validation_780637798298_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780637798298_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ4_step1_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ4_step1_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ4_step3_1794078000000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ4_step3_1794423600000_left_780637798298_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_projection",
+      "passed": true,
+      "maximum": 8.586881206085195e-17
+    },
+    {
+      "check": "validation_780638271319_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638271319_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step1_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step1_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step3_1794078000000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step3_1794423600000_left_780638271319_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_projection",
+      "passed": true,
+      "maximum": 8.673617379884035e-17
+    },
+    {
+      "check": "validation_780638310097_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638310097_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step1_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step1_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step3_1794078000000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ5_step3_1794423600000_left_780638310097_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_projection",
+      "passed": true,
+      "maximum": 5.5077470362263625e-17
+    },
+    {
+      "check": "validation_780638327479_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638327479_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ6_step1_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ6_step1_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ6_step3_1794078000000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "ZXJ6_step3_1794423600000_left_780638327479_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_input_hash",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_source_rawY_timestamps",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_B0_pre_raw",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_validity",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_Y_diag",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_projection",
+      "passed": true,
+      "maximum": 2.42861286636753e-17
+    },
+    {
+      "check": "validation_780638349768_0_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_1_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_2_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_3_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "validation_780638349768_4_correction_accounting",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "common_reference1_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "consecutive_jumps_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_learners_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "missing_nodes_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step1_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "mode_step3_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step1_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "multiple_step3_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp1_1h_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "nodes_ramp3_3h_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise1_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise2_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "noise3_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse1_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "pulse3_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "reference3_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "repeated_pulse3_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794078000000_left_780638349768_Y_persisted",
+      "passed": true
+    },
+    {
+      "check": "small_node_step_1794423600000_left_780638349768_Y_persisted",
+      "passed": true
+    }
+  ],
+  "Y_test": "C++ memcmp every full-point method, all3 complete noisy histories and all waveform suffixes; Python independent check every persisted Y",
+  "missing_tails": "See new_source_manifest errors; complete damaged tails are unknowable; only surviving accessible observations used."
+}

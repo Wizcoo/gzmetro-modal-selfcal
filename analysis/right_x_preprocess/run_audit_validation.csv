@@ -1,0 +1,13 @@
+stage,line,device_id,exit_code,elapsed_s,stdout
+validation,right,780639173835,0,25.1560000002,right 780639173835 frames=10608 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,right,780639298317,0,50.0780000002,right 780639298317 frames=10609 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,right,780639333715,0,36.3910000001,right 780639333715 frames=10610 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,right,780639346578,0,121.172,right 780639346578 frames=10609 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,right,780639376393,0,36.9839999999,right 780639376393 frames=10609 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,right,780639414923,0,7.75,right 780639414923 frames=10608 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,left,780630499846,0,13.4849999999,left 780630499846 frames=9044 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,left,780637798298,0,21.7180000001,left 780637798298 frames=9045 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,left,780638271319,0,19.969,left 780638271319 frames=9043 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,left,780638310097,0,93.875,left 780638310097 frames=9046 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,left,780638327479,0,42.8910000001,left 780638327479 frames=9044 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+validation,left,780638349768,0,9.85899999994,left 780638349768 frames=9045 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS

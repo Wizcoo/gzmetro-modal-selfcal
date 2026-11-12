@@ -1,0 +1,6 @@
+.work/
+__pycache__/
+*.pyc
+full_metrics/old_*.csv
+key_chain_metrics_old.csv
+report_facts.json

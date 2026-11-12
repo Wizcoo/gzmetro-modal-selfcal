@@ -1,0 +1,12 @@
+{
+  "B4_tested": false,
+  "decided_before_new_signal_read": true,
+  "old_noise_sensitivity_ratio_median": {
+    "B0_raw": 1.0,
+    "B1_N1": 1.0,
+    "B2_N2_ab": 0.9453994720488584,
+    "B2ll_N2_linear": 0.967173174305303,
+    "B3_N3": 0.9720376412075049
+  },
+  "reason": "N1 is identity on ordinary development data and neither N1 nor N3 reaches the predefined10pct median paired-noise improvement; do not run N1+N3"
+}
