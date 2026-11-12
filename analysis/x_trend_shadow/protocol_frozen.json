@@ -1,0 +1,70 @@
+{
+  "version": "X-trend-shadow-v1",
+  "frozen_UTC": "2026-11-12T06:51:46.892591+00:00",
+  "scope": "historical development and forward chronological evaluation; not a future field acceptance",
+  "A": {
+    "thermal_RC_minutes": [
+      12,
+      60
+    ],
+    "features": [
+      "Tslow",
+      "positive(Tfast-Tslow)",
+      "negative(Tfast-Tslow)"
+    ],
+    "ridge_per_sample": 0.02,
+    "past_validation_R2_min": 0.1,
+    "extra_cap_mm": 1.5,
+    "gain_bounds": [
+      0,
+      2
+    ],
+    "max_gain_update_per_minute": 0.03,
+    "correction_rate_cap_mm_per_minute": 0.1
+  },
+  "B": {
+    "model": "event switching constant-velocity Kalman",
+    "stable_R": "past13cal observations increment MAD /sqrt2, floor.01mm",
+    "Q_level_over_R": 0.0025,
+    "Q_velocity_over_R": 0.0007716049382716049,
+    "velocity_decay_minutes": 30,
+    "large_step_mm_floor": 0.2,
+    "large_step_sigma": 4,
+    "motion_hold_minutes": 15,
+    "recovery_minutes": 10,
+    "CUSUM_drift_sigma": 0.15,
+    "CUSUM_threshold_mm_floor": 0.18
+  },
+  "C": {
+    "model": "individually validated multi-reference transfer, self excluded; reference state10min, correction12min",
+    "minimum_references_excluding_target": 2,
+    "past_validation_R2_min": 0.1,
+    "reference_R2_min": 0,
+    "reference_rank1_energy_min": 0.6,
+    "extra_cap_mm": 1.5,
+    "fault_hold_minutes": 10,
+    "reference_step_latch_mm_floor": 0.4
+  },
+  "validation": {
+    "train": "earlier complete nights only; preceding night is blocked validation, both then refit; no current-night targets in gain fitting",
+    "small_scale_devices": [
+      "780639346578",
+      "780639298317",
+      "780639376393",
+      "780638327479",
+      "780638349768",
+      "780630499846"
+    ],
+    "expand": "all3 will be preserved; at least top2 by focus P95-P5 median ratio, worst-marker regression, actual coverage and safety risk",
+    "no_targeted_30_to50_search": true,
+    "all_historical_nights": "all these dates have previously been explored; no blind prospective claim"
+  },
+  "source_SHA256": {
+    "native.cpp": "aefd3ac2ce098814a446d3d4dc96f753e412ae639ce2a52818dc3e6f8e259eb6",
+    "features.py": "93d2e42345b307a6244c0ab4ea43c47ba754e8d7a6ea4a71a64a92727519595c",
+    "shadow.py": "c4c80bd34edc9c3b93b2775efedbc192487ba126c604213d31f7572cb5b057d7",
+    "run_candidates.py": "c36c3df02033306df1720579b4aafcf83f235da656d6a3eb500489f1bf97cfae"
+  },
+  "production_sources_unchanged": true,
+  "monitor_alarm_channel": "passthrough object; trend separate, never fed back into modal core"
+}

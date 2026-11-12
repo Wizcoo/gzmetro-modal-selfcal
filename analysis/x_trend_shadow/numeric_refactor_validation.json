@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "frames": 60,
+  "points": 100,
+  "mixed_validity_step_pulse_and_day_bypass": true,
+  "maximum_output_difference_mm": 1.1102230246251565e-15,
+  "reference_seconds": 0.16931409970857203,
+  "batch_seconds": 0.15058189956471324,
+  "nonconverged_point_frames_old": 4341,
+  "nonconverged_point_frames_batch": 4341,
+  "old_code_SHA256": "8fc9680608803c9a39cac2e1f165188bf731a1ea075fb71202608fe4b506d3ac",
+  "batch_code_SHA256": "fb0e39bfba701db9f9556a841863dce752261227444421bdae9f8bf442d2f139",
+  "objective_parameters_unchanged": true
+}

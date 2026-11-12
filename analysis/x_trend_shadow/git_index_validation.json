@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "verified_staged_files": 1151,
+  "Git_blob_bytes_equal_working_copy": true,
+  "SHA256_equal_artifact_catalog": true,
+  "staged_paths_only": "analysis/x_trend_shadow/",
+  "excluded_self_describing_files": [
+    "artifact_catalog.csv",
+    "git_index_validation.json"
+  ],
+  "reason_for_exclusions": "catalog and this certificate describe the verified payload; no self-hash cycle",
+  "production_or_DB_staged": false
+}

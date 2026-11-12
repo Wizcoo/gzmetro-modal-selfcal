@@ -1,0 +1,17 @@
+{
+  "frozen_UTC": "2026-11-12T06:59:31.663294+00:00",
+  "version": "D-L1-1",
+  "reason": "ABC pilot did not reliably outperform W3; additional mechanism uses finite-memory curvature sparsity, not another percentage shrinkage or EMA",
+  "objective": ".5*||y-l||²+lambda*||D2 l||1; only current endpoint emitted",
+  "past_current_window": 15,
+  "lambda": "MAD(second differences)/sqrt6 * sqrt(12log(window)), floor sigma .01mm",
+  "rho": 2,
+  "ADMM_max_iterations": 50,
+  "ADMM_convergence_mm": 1e-05,
+  "reported_nonconvergence_threshold_mm": 0.0001,
+  "no_goal_range_parameter_search": true,
+  "D_input": "B0 calX",
+  "D_W3_ablation_input": "independent W3 calX; not a distinct mechanism",
+  "code_SHA256": "8fc9680608803c9a39cac2e1f165188bf731a1ea075fb71202608fe4b506d3ac",
+  "ABC_parameters_unchanged": true
+}

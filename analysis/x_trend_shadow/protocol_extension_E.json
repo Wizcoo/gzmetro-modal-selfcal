@@ -1,0 +1,22 @@
+{
+  "version": "E-residual-factor-1",
+  "frozen_UTC": "2026-11-12T07:47:48.906604+00:00",
+  "motivation": "D narrows overall range but not30/60min drift; prior residual PCA shows broad low-rank correlation. This additional mechanism estimates common slow increments and protects sparse local persistent changes.",
+  "training": "past90 full-correction samples, min60; ordinary markers only; update every30 active frames until01:30, with initial no-history bootstrap allowed; no current or future sample in the covariance used for current solve",
+  "rank_max": 2,
+  "ordinary_min": 8,
+  "valid_and_unmasked_ordinary_min_fraction": 0.6,
+  "spatial_participation_min_fraction": 0.35,
+  "eigenvalue_above_median_noise_multiple": 1.5,
+  "robust_frame_Huber_sigma": 2.5,
+  "local_sustained_component_mm_floor": 0.35,
+  "local_sustained_sigma_multiple": 4,
+  "local_memory_minutes": 200,
+  "common_increment_RC_minutes": 15,
+  "max_correction_mm": 1.5,
+  "max_correction_increment_mm_per_minute": 0.1,
+  "reference_node_role": "YJ/ZJ/YXJ/ZXJ never drive factor solve or ordinary covariance; all point gains separate, no uniform shrinkage",
+  "assumption": "most observations share broad device disturbance, actual local motion comparatively sparse; broad real common motion cannot be identified without independent truth",
+  "code_SHA256": "cd7e159e8d07b529c07fa7a7a0facd4f1997a344385db892b6cc15348298c62b",
+  "not_a_new_physical_measurement_or_alarm_channel": true
+}

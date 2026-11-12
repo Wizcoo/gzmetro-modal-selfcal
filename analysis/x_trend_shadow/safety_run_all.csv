@@ -1,0 +1,13 @@
+line,device_id,elapsed_seconds,scene_runs,response_rows,snapshot_controls_equal,JSON_restart_equal,Y_bitwise,original_alarm_payload_unchanged
+right,780639173835,41.3129999998,34,6279,True,True,True,True
+right,780639298317,58.6879999998,30,12495,True,True,True,True
+right,780639333715,46.5149999999,30,9310,True,True,True,True
+right,780639346578,100.765,34,27027,True,True,True,True
+right,780639376393,62.0630000001,34,12285,True,True,True,True
+right,780639414923,30.1870000002,34,3276,True,True,True,True
+left,780630499846,43.531,34,6006,True,True,True,True
+left,780637798298,46.5619999999,30,8330,True,True,True,True
+left,780638271319,44.5939999998,30,8330,True,True,True,True
+left,780638310097,80.672,30,23030,True,True,True,True
+left,780638327479,62.4689999998,34,14742,True,True,True,True
+left,780638349768,34.672,34,4641,True,True,True,True

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "numerical_comparisons": 38109289,
+  "continuous_trace_rows_checked": 1706231,
+  "all_marker_plots": 524,
+  "focus_plots": 18,
+  "source_database_hashes_unchanged": 8,
+  "source_packets_unchanged": 12,
+  "original_V51_V53_hashes_unchanged": true,
+  "ABC_frozen_math_unchanged": true,
+  "run_candidates_scheduler_only_change_since_freeze": true,
+  "past_only_model_bank_prefix_equal": true,
+  "day_new_output_exact_B0": true,
+  "D_gap_first_frame_passthrough": true,
+  "all_deliverable_files_under_2MB": true,
+  "not_actual_site_alarm_or_X0_validation": true
+}

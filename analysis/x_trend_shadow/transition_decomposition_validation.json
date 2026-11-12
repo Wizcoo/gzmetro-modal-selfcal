@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "formula_residual_abs_max_tolerance_mm": 1e-10,
+  "original_D_reconstructed": true,
+  "gate_term_definition": "effect of changing blend gate with previous full correction held fixed; distinct from dynamic filter and original step"
+}

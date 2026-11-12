@@ -1,0 +1,3 @@
+scenario,marker_name,path,selection
+node_step1,YXJ5,plots/safety/right_780639346578_node_step1.png,target node
+cohort20_step3,ZXJ6,plots/safety/left_780638327479_cohort20_step3.png,maximum D minus B0 paired response among exported non-target nodes
