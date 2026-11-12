@@ -1,0 +1,17 @@
+{
+  "frozen_at_UTC": "2026-11-12T03:36:37.588786+00:00",
+  "protocol_SHA256": "bb666797793aa34c302fb79f9222a9807c4820bc3cf23942a67fcfe304223051",
+  "before_new_signal_read": true,
+  "old_noise_test_scale_source": {
+    "old_only_sigma_median_mm": 0.06955713017732815,
+    "gaussian_test_levels_mm": [
+      0.034778565088664073,
+      0.06955713017732815,
+      0.1391142603546563
+    ],
+    "definition": "second-difference MAD/sqrt6 of old C0 residual; proxy, not calibrated pixel noise"
+  },
+  "new_data_seen_before_freeze": "schema, table names/counts, timestamp bounds only; no X/Y signal values",
+  "semantic_protocol_SHA256": "7ed03676da5854233906966e6cff04085626811fef95e77d621850c39d2b4626",
+  "normalization_note": "Original byte SHA retained; semantic SHA allows UTF8 LF review normalization without parameter changes."
+}

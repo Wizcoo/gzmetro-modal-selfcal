@@ -1,0 +1,12 @@
+{
+  "frozen_UTC": "2026-11-12T03:55:10.147828+00:00",
+  "before_validation_signal_read": true,
+  "algorithm_SHA256": {
+    "driver.cpp": "3267d0c3140ed55c77b23981be76c8e3433f45c12c6dcdb412743a516a769de4",
+    "preprocess.h": "5d15e421385639d14bf09a29aa4772efd3e6dac521d15d590e50ac2f8e72e04e"
+  },
+  "original_V51_cpp_SHA256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+  "original_V51_h_SHA256": "f2fc31aa6f7fb0c6dee27ad4ffee28cdd8ff7a44b17a6eeea761870a96e080f3",
+  "parameters_unchanged_from_first_freeze": true,
+  "line_endings": "C++ UTF8 LF locked; no code changes after this record before validation"
+}

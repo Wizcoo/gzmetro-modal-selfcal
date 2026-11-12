@@ -1,0 +1,5 @@
+{
+  "passed": true,
+  "independent_checks": 11520,
+  "formula": "pre-cal = gate*(A1*v1+A2*v2+A3*v3-cbar); mode axes may rotate between branches, so coefficient-only cross-branch comparison is not physical."
+}

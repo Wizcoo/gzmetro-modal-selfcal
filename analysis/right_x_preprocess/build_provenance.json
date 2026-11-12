@@ -1,0 +1,18 @@
+{
+  "compiler": "g++.EXE (Rev5, Built by MSYS2 project) 16.1.0",
+  "command": [
+    "C:\\msys64\\ucrt64\\bin\\g++.EXE",
+    "-std=c++17",
+    "-O2",
+    "-pthread",
+    "-IE:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\gzmetro-modal-selfcal\\versions\\V51",
+    "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\analysis\\right_x_preprocess\\scripts\\driver.cpp",
+    "-o",
+    "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\preprocess.exe"
+  ],
+  "Python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "executable_SHA256": "56a48e5b09e9456c0c09eafdda47ff4ac5a29b84eaef8e2bf3ef1f384ac663dc",
+  "original_sources_included_without_patch": true
+}

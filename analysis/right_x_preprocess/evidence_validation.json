@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "CSV_source_windows_checked": 11,
+  "CSV_numeric_values_checked": 138960,
+  "independent_noise_RMSE_checks": 1740,
+  "stress_extra_key_mm": 3.1272668382199997
+}

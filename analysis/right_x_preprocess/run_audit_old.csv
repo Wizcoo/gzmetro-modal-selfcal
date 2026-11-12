@@ -1,0 +1,7 @@
+stage,line,device_id,exit_code,elapsed_s,stdout
+old,right,780639173835,0,17.9530000002,right 780639173835 frames=3778 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+old,right,780639298317,0,31.125,right 780639298317 frames=3778 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+old,right,780639333715,0,23.172,right 780639333715 frames=3779 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+old,right,780639346578,0,64.0319999999,right 780639346578 frames=3778 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+old,right,780639376393,0,19.3130000001,right 780639376393 frames=3779 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
+old,right,780639414923,0,3.32800000021,right 780639414923 frames=3778 streams=5 noise_levels=3 snapshots=2 Y_bitwise=PASS validity=PASS
