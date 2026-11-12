@@ -1,0 +1,46 @@
+[
+  {
+    "line": "right",
+    "version": "V51",
+    "cpp_SHA256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+    "h_SHA256": "f2fc31aa6f7fb0c6dee27ad4ffee28cdd8ff7a44b17a6eeea761870a96e080f3",
+    "driver_SHA256": "aefd3ac2ce098814a446d3d4dc96f753e412ae639ce2a52818dc3e6f8e259eb6",
+    "command": [
+      "C:/msys64/ucrt64/bin/g++.exe",
+      "-std=c++17",
+      "-O2",
+      "-pthread",
+      "-IE:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\versions\\V51",
+      "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\analysis\\x_trend_shadow\\scripts\\native.cpp",
+      "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\versions\\V51\\ModalSelfCal.cpp",
+      "-o",
+      "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\analysis\\x_trend_shadow\\.work\\right\\native.exe"
+    ],
+    "compiler": "g++.exe (Rev5, Built by MSYS2 project) 16.1.0",
+    "Python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1"
+  },
+  {
+    "line": "left",
+    "version": "V53",
+    "cpp_SHA256": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+    "h_SHA256": "cbe62a6f78d2d9c19914616e7d16fdaea6b9dc38033708d5f0af52fa3627b59a",
+    "driver_SHA256": "aefd3ac2ce098814a446d3d4dc96f753e412ae639ce2a52818dc3e6f8e259eb6",
+    "command": [
+      "C:/msys64/ucrt64/bin/g++.exe",
+      "-std=c++17",
+      "-O2",
+      "-pthread",
+      "-IE:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\versions\\V53",
+      "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\analysis\\x_trend_shadow\\scripts\\native.cpp",
+      "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\versions\\V53\\ModalSelfCal.cpp",
+      "-o",
+      "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\analysis\\x_trend_shadow\\.work\\left\\native.exe"
+    ],
+    "compiler": "g++.exe (Rev5, Built by MSYS2 project) 16.1.0",
+    "Python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1"
+  }
+]

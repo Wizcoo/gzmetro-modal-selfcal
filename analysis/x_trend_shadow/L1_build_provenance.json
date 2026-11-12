@@ -1,0 +1,20 @@
+{
+  "command": [
+    "C:/msys64/ucrt64/bin/g++.exe",
+    "-std=c++17",
+    "-O3",
+    "-shared",
+    "-static-libgcc",
+    "-static-libstdc++",
+    "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\analysis\\x_trend_shadow\\scripts\\l1_kernel.cpp",
+    "-o",
+    "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\trend_shadow_research_20261112\\analysis\\x_trend_shadow\\.work\\xtrend_l1.dll"
+  ],
+  "header_SHA256": "9853b3d25e970ae1bcc89d1adee9340252b27fee6fde1b1f25fe8069e65b1f6f",
+  "binding_SHA256": "190ad3e9e44fc64c23975cacdf6982145220faa183048c20d8d962fc905a3eb9",
+  "DLL_SHA256": "7797872b2bba47005be2ea035efaf65de2ee08c44a1b611d5b8fb9ba49b8b584",
+  "version": "D-L1-2 numerical solver completion",
+  "same_objective_window_lambda_as_D1": true,
+  "reason": "ADMM50 pilot had non-negligible primal/dual residuals; replace solver, not regularization parameters",
+  "solver": "box-dual accelerated projected gradient; <=2000 iterations; independently auditable primal-dual gap<=5e-7mm2 implies endpoint numerical error<=.001mm; this is not measurement accuracy"
+}

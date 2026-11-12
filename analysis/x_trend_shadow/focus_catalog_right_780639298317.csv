@@ -1,0 +1,4 @@
+line,device_id,marker_name,range,start_beijing,end_exclusive_beijing,path,selection
+right,780639298317,YXJ4,8hours,2026-11-11T23:00:00.000+08:00,2026-11-12T07:00:00.000+08:00,plots/focus/right_780639298317_YXJ4_8hours.png,latest whole night; local center maximizes absolute D-B0 difference in actual full-correction range
+right,780639298317,YXJ4,60minutes,2026-11-12T03:48:44.857+08:00,2026-11-12T04:48:44.857+08:00,plots/focus/right_780639298317_YXJ4_60minutes.png,latest whole night; local center maximizes absolute D-B0 difference in actual full-correction range
+right,780639298317,YXJ4,10minutes,2026-11-12T04:13:44.857+08:00,2026-11-12T04:23:44.857+08:00,plots/focus/right_780639298317_YXJ4_10minutes.png,latest whole night; local center maximizes absolute D-B0 difference in actual full-correction range

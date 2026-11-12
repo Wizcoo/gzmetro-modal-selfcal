@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "frozen_UTC": "2026-11-12T08:05:47.679614+00:00",
+  "certificates_independently_checked": 13034,
+  "max_duality_gap_mm2": 4.999903176907758e-07,
+  "above_tolerance_certificates": 0,
+  "maximum_affine_error_mm": 0,
+  "seconds_including_certificate_checks": 0.5,
+  "parameters_window_lambda_unchanged": true,
+  "header_SHA256": "9853b3d25e970ae1bcc89d1adee9340252b27fee6fde1b1f25fe8069e65b1f6f"
+}

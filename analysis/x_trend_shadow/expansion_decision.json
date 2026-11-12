@@ -1,0 +1,9 @@
+{
+  "main_candidate": "D_L1trend",
+  "second_expanded": "B_event",
+  "all_five_expanded_to_12_devices": true,
+  "E_injection_focus_only": true,
+  "decision": "whole-night range, worst channels and known waveform costs evaluated together; D only for shadow display, not hour-scale drift or physical accuracy",
+  "no_new_PV_parameter_search": true,
+  "original_monitor_and_alarm_unchanged": true
+}

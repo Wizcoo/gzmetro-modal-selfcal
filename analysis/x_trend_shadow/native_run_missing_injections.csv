@@ -1,0 +1,7 @@
+line,device_id,elapsed_seconds,injections,stdout,status
+right,780639173835,2.75,True,780639173835 native_B0_and_W3=PASS Y_bitwise=473064 snapshots=2 unchanged_original_source=1,PASS
+right,780639333715,4.375,True,780639333715 native_B0_and_W3=PASS Y_bitwise=745180 snapshots=2 unchanged_original_source=1,PASS
+right,780639414923,1.73399999994,True,780639414923 native_B0_and_W3=PASS Y_bitwise=246816 snapshots=2 unchanged_original_source=1,PASS
+left,780637798298,3.4850000001,True,780637798298 native_B0_and_W3=PASS Y_bitwise=612918 snapshots=2 unchanged_original_source=1,PASS
+left,780638271319,3.39000000013,True,780638271319 native_B0_and_W3=PASS Y_bitwise=612850 snapshots=2 unchanged_original_source=1,PASS
+left,780638310097,27.656,True,780638310097 native_B0_and_W3=PASS Y_bitwise=1694726 snapshots=2 unchanged_original_source=1,PASS

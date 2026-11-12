@@ -1,0 +1,921 @@
+{
+  "inputs": [
+    {
+      "line": "right",
+      "device_id": "780639173835",
+      "version": "V51",
+      "frames": 10608,
+      "points": 23,
+      "start_beijing": "2026-11-05T00:00:19.164+08:00",
+      "end_beijing": "2026-11-12T09:59:45.160+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_right_780639173835.bin",
+      "raw_packet_SHA256": "0a78484b39787e5f9262e141b468cc83fa13f1418f88a1662e733b4a30ecfe8f",
+      "env_valid_frames": 10608,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 72.0011166667,
+      "environment_sources": [
+        {
+          "cache": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\right_x_work_20261111\\cache\\EnvData_780639173835.pkl",
+          "SHA256": "ebb92046df8b41a3f1918fec078d9761cc36e92fd22cbdc451ae9110bbcf465e"
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_8.db",
+          "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+          "rows": 2346,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_9.db",
+          "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_10.db",
+          "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+          "rows": 2136,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "right",
+      "device_id": "780639298317",
+      "version": "V51",
+      "frames": 10609,
+      "points": 51,
+      "start_beijing": "2026-11-05T00:00:19.164+08:00",
+      "end_beijing": "2026-11-12T09:59:45.160+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_right_780639298317.bin",
+      "raw_packet_SHA256": "ff3d3d438ff30a97eb977101901cd9029731da0406f360a7f40496a676134cb6",
+      "env_valid_frames": 10609,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 71.0011333333,
+      "environment_sources": [
+        {
+          "cache": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\right_x_work_20261111\\cache\\EnvData_780639298317.pkl",
+          "SHA256": "9e681d865499b91cec0d41ce5223240698f0de8e13cee659f7897cbfd66e41cc"
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_8.db",
+          "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_9.db",
+          "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_10.db",
+          "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+          "rows": 2136,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "right",
+      "device_id": "780639333715",
+      "version": "V51",
+      "frames": 10610,
+      "points": 38,
+      "start_beijing": "2026-11-05T00:00:19.164+08:00",
+      "end_beijing": "2026-11-12T09:59:45.160+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_right_780639333715.bin",
+      "raw_packet_SHA256": "50ad7abdb6081ff903b0f9340f28daeb06bedc6f6bb9a1e91a223dfeb4eb2dc1",
+      "env_valid_frames": 10610,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 71.0011333333,
+      "environment_sources": [
+        {
+          "cache": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\right_x_work_20261111\\cache\\EnvData_780639333715.pkl",
+          "SHA256": "1cbdb33938be569c402eca8784b6653d76b8e8a3c94b902bbc805ae6795576a1"
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_8.db",
+          "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_9.db",
+          "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_10.db",
+          "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+          "rows": 2136,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "right",
+      "device_id": "780639346578",
+      "version": "V51",
+      "frames": 10609,
+      "points": 100,
+      "start_beijing": "2026-11-05T00:00:19.164+08:00",
+      "end_beijing": "2026-11-12T09:59:45.160+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_right_780639346578.bin",
+      "raw_packet_SHA256": "2c834ad02b1bbf0ed20b8e93412e2f13e4a339a05b60ea520b21ad5cd4e717b7",
+      "env_valid_frames": 10609,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 71.0011333333,
+      "environment_sources": [
+        {
+          "cache": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\right_x_work_20261111\\cache\\EnvData_780639346578.pkl",
+          "SHA256": "076d27e2635843fb850769fbf2a9ad57eef4f9d1de05100f7f2e05c8dce070cb"
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_8.db",
+          "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_9.db",
+          "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_10.db",
+          "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+          "rows": 2136,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "right",
+      "device_id": "780639376393",
+      "version": "V51",
+      "frames": 10609,
+      "points": 45,
+      "start_beijing": "2026-11-05T00:00:19.164+08:00",
+      "end_beijing": "2026-11-12T09:59:45.160+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_right_780639376393.bin",
+      "raw_packet_SHA256": "af6051221e819363b7b4b2f1fb296b0f4570d72da93975ad176f73aefc4e8532",
+      "env_valid_frames": 10609,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 72.0011166667,
+      "environment_sources": [
+        {
+          "cache": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\right_x_work_20261111\\cache\\EnvData_780639376393.pkl",
+          "SHA256": "5053803b9a987ad070e3fbbdeb27c675f8ab7de4a9989f3c34ed83f2cc95a4d1"
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_8.db",
+          "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+          "rows": 2344,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_9.db",
+          "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_10.db",
+          "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+          "rows": 2135,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "right",
+      "device_id": "780639414923",
+      "version": "V51",
+      "frames": 10608,
+      "points": 12,
+      "start_beijing": "2026-11-05T00:00:19.164+08:00",
+      "end_beijing": "2026-11-12T09:59:45.160+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_right_780639414923.bin",
+      "raw_packet_SHA256": "c5d74a5b2e072101917242e7d35a14586ba22d9cdb997b600f1eec1a96352924",
+      "env_valid_frames": 10608,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 72.0011166667,
+      "environment_sources": [
+        {
+          "cache": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\right_x_work_20261111\\cache\\EnvData_780639414923.pkl",
+          "SHA256": "0abbd789f3f2010c15e9113c6fb26c325691e6894bfc7f59651a05081e5bef42"
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_8.db",
+          "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+          "rows": 2346,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_9.db",
+          "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+          "rows": 2347,
+          "read_error": ""
+        },
+        {
+          "database": "右线/1793052366195_DataBaseFile_10.db",
+          "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+          "rows": 2136,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "device_id": "780630499846",
+      "version": "V53",
+      "frames": 9044,
+      "points": 22,
+      "start_beijing": "2026-11-05T00:00:22.443+08:00",
+      "end_beijing": "2026-11-12T09:41:26.376+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_left_780630499846.bin",
+      "raw_packet_SHA256": "56a0483e9fc7c07ad58fe054b4d50580ebe6b371c80767ba036428671beed5fa",
+      "env_valid_frames": 9044,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 1615.01936667,
+      "environment_sources": [
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+          "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+          "rows": 1413,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+          "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+          "rows": 846,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+          "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+          "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+          "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+          "rows": 1987,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "device_id": "780637798298",
+      "version": "V53",
+      "frames": 9045,
+      "points": 34,
+      "start_beijing": "2026-11-05T00:00:22.443+08:00",
+      "end_beijing": "2026-11-12T09:41:26.376+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_left_780637798298.bin",
+      "raw_packet_SHA256": "67978a466a00919214311b0330ef97d5ecc0841f7be60c2d247a8788224559d5",
+      "env_valid_frames": 9045,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 1615.01936667,
+      "environment_sources": [
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+          "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+          "rows": 1413,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+          "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+          "rows": 846,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+          "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+          "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+          "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+          "rows": 1987,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "device_id": "780638271319",
+      "version": "V53",
+      "frames": 9043,
+      "points": 34,
+      "start_beijing": "2026-11-05T00:00:22.443+08:00",
+      "end_beijing": "2026-11-12T09:41:26.376+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_left_780638271319.bin",
+      "raw_packet_SHA256": "210254745beb1f3ad6994e2f929fc169e45d586fa22745f88c9cc686b95301f4",
+      "env_valid_frames": 9043,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 1615.01936667,
+      "environment_sources": [
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+          "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+          "rows": 1412,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+          "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+          "rows": 846,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+          "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+          "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+          "rows": 2458,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+          "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+          "rows": 1987,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "device_id": "780638310097",
+      "version": "V53",
+      "frames": 9046,
+      "points": 94,
+      "start_beijing": "2026-11-05T00:00:22.443+08:00",
+      "end_beijing": "2026-11-12T09:41:26.376+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_left_780638310097.bin",
+      "raw_packet_SHA256": "49349048d6be49fa679949659e973bb989d19f6f2f072c0872dc603ec4760748",
+      "env_valid_frames": 9046,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 1615.01936667,
+      "environment_sources": [
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+          "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+          "rows": 1413,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+          "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+          "rows": 846,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+          "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+          "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+          "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+          "rows": 1987,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "device_id": "780638327479",
+      "version": "V53",
+      "frames": 9044,
+      "points": 54,
+      "start_beijing": "2026-11-05T00:00:22.443+08:00",
+      "end_beijing": "2026-11-12T09:41:26.376+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_left_780638327479.bin",
+      "raw_packet_SHA256": "9db119135fc7b7012b9f2c12754357bbbdc3b3391a656eb7f51341abb64aa9e0",
+      "env_valid_frames": 9044,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 1617.01938333,
+      "environment_sources": [
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+          "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+          "rows": 1412,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+          "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+          "rows": 846,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+          "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+          "rows": 2456,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+          "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+          "rows": 2458,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+          "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+          "rows": 1987,
+          "read_error": ""
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "device_id": "780638349768",
+      "version": "V53",
+      "frames": 9045,
+      "points": 17,
+      "start_beijing": "2026-11-05T00:00:22.443+08:00",
+      "end_beijing": "2026-11-12T09:41:26.376+08:00",
+      "raw_packet": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-1016\\x_preprocess_work_20261112\\cache\\validation_left_780638349768.bin",
+      "raw_packet_SHA256": "d3a8432f53cb08033d09060515940363521e2da0efd71de19844f1ff4f934707",
+      "env_valid_frames": 9045,
+      "env_conflicting_rows_excluded": 0,
+      "max_gap_minutes": 1615.01936667,
+      "environment_sources": [
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+          "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+          "rows": 1413,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+          "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+          "rows": 846,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+          "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+          "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+          "rows": 2459,
+          "read_error": ""
+        },
+        {
+          "database": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+          "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+          "rows": 1987,
+          "read_error": ""
+        }
+      ]
+    }
+  ],
+  "raw_source_manifest": [
+    {
+      "line": "right",
+      "source_file": "右线/1793052366195_DataBaseFile_8.db",
+      "bytes": 209731584,
+      "SHA256": "9b444bf894ae6ba90c6a82505225e4f26fcce7aef025ce9d00e5997388c417c4",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780639173835",
+          "read_rows": 53958,
+          "error": "",
+          "first_ms": 1794039060892,
+          "last_ms": 1794179762940
+        },
+        {
+          "table": "Marker_780639298317",
+          "read_rows": 119697,
+          "error": "",
+          "first_ms": 1794039000893,
+          "last_ms": 1794179762940
+        },
+        {
+          "table": "Marker_780639333715",
+          "read_rows": 89186,
+          "error": "",
+          "first_ms": 1794039000893,
+          "last_ms": 1794179762940
+        },
+        {
+          "table": "Marker_780639346578",
+          "read_rows": 234700,
+          "error": "",
+          "first_ms": 1794039000893,
+          "last_ms": 1794179762940
+        },
+        {
+          "table": "Marker_780639376393",
+          "read_rows": 105570,
+          "error": "",
+          "first_ms": 1794039060892,
+          "last_ms": 1794179762940
+        },
+        {
+          "table": "Marker_780639414923",
+          "read_rows": 28152,
+          "error": "",
+          "first_ms": 1794039060892,
+          "last_ms": 1794179762940
+        }
+      ]
+    },
+    {
+      "line": "right",
+      "source_file": "右线/1793052366195_DataBaseFile_9.db",
+      "bytes": 209760256,
+      "SHA256": "1d4d7309e2b2bcf551b8f0ffaa24cdcbd4460942c145b21ed15126f8fa16ae54",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780639173835",
+          "read_rows": 53981,
+          "error": "",
+          "first_ms": 1794179822947,
+          "last_ms": 1794320584997
+        },
+        {
+          "table": "Marker_780639298317",
+          "read_rows": 119697,
+          "error": "",
+          "first_ms": 1794179822947,
+          "last_ms": 1794320584997
+        },
+        {
+          "table": "Marker_780639333715",
+          "read_rows": 89186,
+          "error": "",
+          "first_ms": 1794179822947,
+          "last_ms": 1794320584997
+        },
+        {
+          "table": "Marker_780639346578",
+          "read_rows": 234700,
+          "error": "",
+          "first_ms": 1794179822947,
+          "last_ms": 1794320584997
+        },
+        {
+          "table": "Marker_780639376393",
+          "read_rows": 105615,
+          "error": "",
+          "first_ms": 1794179822947,
+          "last_ms": 1794320584997
+        },
+        {
+          "table": "Marker_780639414923",
+          "read_rows": 28164,
+          "error": "",
+          "first_ms": 1794179822947,
+          "last_ms": 1794320584997
+        }
+      ]
+    },
+    {
+      "line": "right",
+      "source_file": "右线/1793052366195_DataBaseFile_10.db",
+      "bytes": 190951424,
+      "SHA256": "f47f890c54f291c7bd1844ab49aa20d27400fd437a64d5e170f822b3e005b810",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780639173835",
+          "read_rows": 49151,
+          "error": "",
+          "first_ms": 1794320644995,
+          "last_ms": 1794448785160
+        },
+        {
+          "table": "Marker_780639298317",
+          "read_rows": 108958,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3958; unreadable_rowid_seeks=0",
+          "first_ms": 1794320644995,
+          "last_ms": 1794448785160
+        },
+        {
+          "table": "Marker_780639333715",
+          "read_rows": 81198,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=1198; unreadable_rowid_seeks=0",
+          "first_ms": 1794320644995,
+          "last_ms": 1794448785160
+        },
+        {
+          "table": "Marker_780639346578",
+          "read_rows": 213604,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3604; unreadable_rowid_seeks=0",
+          "first_ms": 1794320644995,
+          "last_ms": 1794448785160
+        },
+        {
+          "table": "Marker_780639376393",
+          "read_rows": 96123,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=1123; unreadable_rowid_seeks=0",
+          "first_ms": 1794320644995,
+          "last_ms": 1794448785160
+        },
+        {
+          "table": "Marker_780639414923",
+          "read_rows": 25641,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=641; unreadable_rowid_seeks=0",
+          "first_ms": 1794320644995,
+          "last_ms": 1794448785160
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "source_file": "左线/NewDevice/1793507670403_DataBaseFile_3.db",
+      "bytes": 209764352,
+      "SHA256": "97fabe0240c2a9538fbe3af381eaa9ae4a120dca8e7fd37636b3ea443102a7b0",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780630499846",
+          "read_rows": 28446,
+          "error": "",
+          "first_ms": 1793808022443,
+          "last_ms": 1793885543366
+        },
+        {
+          "table": "Marker_780637798298",
+          "read_rows": 43962,
+          "error": "",
+          "first_ms": 1793808022443,
+          "last_ms": 1793885543366
+        },
+        {
+          "table": "Marker_780638271319",
+          "read_rows": 43928,
+          "error": "",
+          "first_ms": 1793808022443,
+          "last_ms": 1793885543366
+        },
+        {
+          "table": "Marker_780638310097",
+          "read_rows": 121542,
+          "error": "",
+          "first_ms": 1793808022443,
+          "last_ms": 1793885543366
+        },
+        {
+          "table": "Marker_780638327479",
+          "read_rows": 69822,
+          "error": "",
+          "first_ms": 1793808022443,
+          "last_ms": 1793885543366
+        },
+        {
+          "table": "Marker_780638349768",
+          "read_rows": 21981,
+          "error": "",
+          "first_ms": 1793808022443,
+          "last_ms": 1793885543366
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "source_file": "左线/NewDevice/1793507670403_DataBaseFile_4.db",
+      "bytes": 72986624,
+      "SHA256": "1b2e4708b29d7db02ab47c8fb337f68828330c14633beec70d21ff55d712783c",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780630499846",
+          "read_rows": 18594,
+          "error": "database disk image is malformed; rowwise_salvaged=3594; unreadable_rowid_seeks=0",
+          "first_ms": 1793885603366,
+          "last_ms": 1793936303973
+        },
+        {
+          "table": "Marker_780637798298",
+          "read_rows": 28759,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3759; unreadable_rowid_seeks=0",
+          "first_ms": 1793885603366,
+          "last_ms": 1793936303973
+        },
+        {
+          "table": "Marker_780638271319",
+          "read_rows": 28762,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3762; unreadable_rowid_seeks=0",
+          "first_ms": 1793885603366,
+          "last_ms": 1793936303973
+        },
+        {
+          "table": "Marker_780638310097",
+          "read_rows": 79462,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=4462; unreadable_rowid_seeks=0",
+          "first_ms": 1793885603366,
+          "last_ms": 1793936303973
+        },
+        {
+          "table": "Marker_780638327479",
+          "read_rows": 45527,
+          "error": "",
+          "first_ms": 1793885603366,
+          "last_ms": 1793936183972
+        },
+        {
+          "table": "Marker_780638349768",
+          "read_rows": 14382,
+          "error": "",
+          "first_ms": 1793885603366,
+          "last_ms": 1793936303973
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "source_file": "左线/NewDevice/1793507670403_DataBaseFile_5.db",
+      "bytes": 209743872,
+      "SHA256": "efdb84da0622970ab51c537388b79fbb0e9197f3773dcf8ae598c6522516e969",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780630499846",
+          "read_rows": 54098,
+          "error": "",
+          "first_ms": 1794033205135,
+          "last_ms": 1794180686908
+        },
+        {
+          "table": "Marker_780637798298",
+          "read_rows": 83606,
+          "error": "",
+          "first_ms": 1794033205135,
+          "last_ms": 1794180686908
+        },
+        {
+          "table": "Marker_780638271319",
+          "read_rows": 83606,
+          "error": "",
+          "first_ms": 1794033205135,
+          "last_ms": 1794180686908
+        },
+        {
+          "table": "Marker_780638310097",
+          "read_rows": 231146,
+          "error": "",
+          "first_ms": 1794033205135,
+          "last_ms": 1794180686908
+        },
+        {
+          "table": "Marker_780638327479",
+          "read_rows": 132786,
+          "error": "",
+          "first_ms": 1794033205135,
+          "last_ms": 1794180686908
+        },
+        {
+          "table": "Marker_780638349768",
+          "read_rows": 41803,
+          "error": "",
+          "first_ms": 1794033205135,
+          "last_ms": 1794180686908
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "source_file": "左线/NewDevice/1793507670403_DataBaseFile_6.db",
+      "bytes": 209719296,
+      "SHA256": "87d73cfaa8a2de9f06277e7c678fb50e568b65277f719919ad12cec06b104c6e",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780630499846",
+          "read_rows": 54098,
+          "error": "",
+          "first_ms": 1794180746909,
+          "last_ms": 1794328249510
+        },
+        {
+          "table": "Marker_780637798298",
+          "read_rows": 83606,
+          "error": "",
+          "first_ms": 1794180746909,
+          "last_ms": 1794328249510
+        },
+        {
+          "table": "Marker_780638271319",
+          "read_rows": 83572,
+          "error": "",
+          "first_ms": 1794180746909,
+          "last_ms": 1794328249510
+        },
+        {
+          "table": "Marker_780638310097",
+          "read_rows": 231240,
+          "error": "",
+          "first_ms": 1794180746909,
+          "last_ms": 1794328249510
+        },
+        {
+          "table": "Marker_780638327479",
+          "read_rows": 132840,
+          "error": "",
+          "first_ms": 1794180746909,
+          "last_ms": 1794328249510
+        },
+        {
+          "table": "Marker_780638349768",
+          "read_rows": 41803,
+          "error": "",
+          "first_ms": 1794180746909,
+          "last_ms": 1794328249510
+        }
+      ]
+    },
+    {
+      "line": "left",
+      "source_file": "左线/NewDevice/1793507670403_DataBaseFile_7.db",
+      "bytes": 169287680,
+      "SHA256": "c94de5e261ead4af8782b56760acff38fad0313fd56b57a24263c032f8144627",
+      "read_mode": "ro immutable, no repair",
+      "tables": [
+        {
+          "table": "Marker_780630499846",
+          "read_rows": 43695,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=3695; unreadable_rowid_seeks=0",
+          "first_ms": 1794328309502,
+          "last_ms": 1794447686376
+        },
+        {
+          "table": "Marker_780637798298",
+          "read_rows": 67559,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=2559; unreadable_rowid_seeks=0",
+          "first_ms": 1794328309502,
+          "last_ms": 1794447686376
+        },
+        {
+          "table": "Marker_780638271319",
+          "read_rows": 67562,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=2562; unreadable_rowid_seeks=0",
+          "first_ms": 1794328309502,
+          "last_ms": 1794447686376
+        },
+        {
+          "table": "Marker_780638310097",
+          "read_rows": 186784,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=1784; unreadable_rowid_seeks=0",
+          "first_ms": 1794328309502,
+          "last_ms": 1794447686376
+        },
+        {
+          "table": "Marker_780638327479",
+          "read_rows": 107311,
+          "error": "database disk image is malformed; max_rowid_unreadable_tail_unknown; rowwise_salvaged=2311; unreadable_rowid_seeks=0",
+          "first_ms": 1794328309502,
+          "last_ms": 1794447686376
+        },
+        {
+          "table": "Marker_780638349768",
+          "read_rows": 33796,
+          "error": "",
+          "first_ms": 1794328309502,
+          "last_ms": 1794447686376
+        }
+      ]
+    }
+  ],
+  "no_database_write": true,
+  "environment_alignment": "Done=1, conflict timestamps excluded; backward-only, <=90s; no interpolation",
+  "prior_inputs": "PR4 full11/05..11/12 surviving original timestamps and masks; damaged tails and gaps retained"
+}

@@ -1,0 +1,2 @@
+line,device_id,elapsed_seconds,scene_runs,response_rows,snapshot_controls_equal,JSON_restart_equal,Y_bitwise,original_alarm_payload_unchanged
+right,780639346578,28.7339999999,34,27027,True,True,True,True

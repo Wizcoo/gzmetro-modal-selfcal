@@ -1,0 +1,12 @@
+{
+  "applied_to": [
+    "780639298317",
+    "780639346578",
+    "780639376393",
+    "780630499846",
+    "780638327479",
+    "780638349768"
+  ],
+  "contract": "All new trend channels equal original B0 in daytime. W3-only historical comparator remains a separate full-history control. D_W3 = B0+g_B0*(inner_L1_W3-B0), preserving original night taper.",
+  "ABC_and_D_B0_math_unchanged": true
+}

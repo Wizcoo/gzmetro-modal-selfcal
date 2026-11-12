@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "original_fields_checked": 29160,
+  "original_rows": 3240,
+  "Y_strings_and_alarm_payload_unchanged": true,
+  "full_vs_JSON_restart_rows_exact": 3240,
+  "test_alarm_payload_not_actual_site_alert": true,
+  "source_CSV_unmodified": true,
+  "method": "D_L1trend"
+}

@@ -1,0 +1,4 @@
+from common import *
+import subprocess
+if __name__=='__main__':
+ command=['C:/msys64/ucrt64/bin/g++.exe','-std=c++17','-O3','-shared','-static-libgcc','-static-libstdc++',str(O/'scripts/l1_kernel.cpp'),'-o',str(W/'xtrend_l1.dll')];subprocess.run(command,check=True);save_json({'command':command,'header_SHA256':sha(O/'scripts/XTrendL1.h'),'binding_SHA256':sha(O/'scripts/l1_cpp.py'),'DLL_SHA256':sha(W/'xtrend_l1.dll'),'version':'D-L1-2 numerical solver completion','same_objective_window_lambda_as_D1':True,'reason':'ADMM50 pilot had non-negligible primal/dual residuals; replace solver, not regularization parameters','solver':'box-dual accelerated projected gradient; <=2000 iterations; independently auditable primal-dual gap<=5e-7mm2 implies endpoint numerical error<=.001mm; this is not measurement accuracy'},'L1_build_provenance.json')
