@@ -1,0 +1,7 @@
+{
+  "fresh_build_exit": 0,
+  "assertions_enabled": true,
+  "command": "g++ -std=c++17 -O2 -static -UNDEBUG versions/V54/test_v54.cpp versions/V54/ModalSelfCal.cpp -o test_v54",
+  "fresh_test_exit": 0,
+  "existing_repository_smoke_fresh_build_and_run_exit": 0
+}

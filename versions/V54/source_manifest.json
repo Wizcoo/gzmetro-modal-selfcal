@@ -1,0 +1,43 @@
+{
+  "snapshot_date": "2026-11-13",
+  "source_directory": "E:\\Wiz\\GZMetro-Cpp\\module\\modal-selfcal\\modelselfcal-V54",
+  "files": {
+    "ModalSelfCal.cpp": {
+      "repository_path": "versions/V54/ModalSelfCal.cpp",
+      "bytes": 76692,
+      "sha256": "91118f3ba15cdc70c1830b7eba1afe7e44a251d0830009ee32ebb0db60f39e02",
+      "sha256_lf_normalized": "488fada363145cb02244b86094c6f18fc17ba21f43dd0055da1cb571ffd03b6b",
+      "git_blob_sha1": "c4c35080896d5277c494242e7c8c75145497e263"
+    },
+    "ModalSelfCal.h": {
+      "repository_path": "versions/V54/ModalSelfCal.h",
+      "bytes": 10743,
+      "sha256": "36d8db57cbe29667d0cdbb01d499b56530ac0a1a74770e440e55d1c1d2f83ba0",
+      "sha256_lf_normalized": "36d8db57cbe29667d0cdbb01d499b56530ac0a1a74770e440e55d1c1d2f83ba0",
+      "git_blob_sha1": "394cfe12a38a3afb52d70ddc383790269a3fcfcb"
+    },
+    "test_v54.cpp": {
+      "repository_path": "versions/V54/test_v54.cpp",
+      "bytes": 7219,
+      "sha256": "f90f1f95b2c0393c6f0bacc42fb0fe0d59e9538cf77b227655dead4d19a92691",
+      "sha256_lf_normalized": "f90f1f95b2c0393c6f0bacc42fb0fe0d59e9538cf77b227655dead4d19a92691",
+      "git_blob_sha1": "5cf00f85f43fded3a74bfb2f78fc34821079e84f"
+    },
+    "README.md": {
+      "repository_path": "versions/V54/README.source.md",
+      "bytes": 6150,
+      "sha256": "1318488f7dc665270033692811c3d249d6797b346de7a80f2b5d2d12b8bc1677",
+      "sha256_lf_normalized": "1318488f7dc665270033692811c3d249d6797b346de7a80f2b5d2d12b8bc1677",
+      "git_blob_sha1": "feeaf89b33ae539f1c0ad970656061954ef7dd5f"
+    }
+  },
+  "algorithm_changes": false,
+  "status": "collaboration snapshot; YD2603 historical-learning/regression protection repair is not implemented",
+  "configuration": {
+    "source_default_max_frame_dev": 8.0,
+    "recent_replay_max_frame_dev": 0.0,
+    "recent_replay_other_parameters": "source defaults",
+    "state_import": "match the actual package config fingerprint; importing a contaminated history does not repair it"
+  },
+  "line_endings": "sha256 refers to original Git blob bytes; LF-normalized hash is provided for checkouts with line-ending conversion"
+}
