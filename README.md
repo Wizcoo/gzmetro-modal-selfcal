@@ -1,5 +1,21 @@
 # GZMetro ModalSelfCal
 
+## 2026-11-17 当前 V54-Astra 协作快照
+
+此分支 `collab/v54-astra-20261117` 在原V54协作分支之上增加当前Astra源码、12设备初始状态、诊断报告及冻结回放数据清单（大数据本次未上传）。它不是现场升级或物理精度认证。
+
+- **[完整中文 Agent Spec / Memory](V54-Astra/github_handoff_20261117/AGENT_SPEC_ZH.md)**
+- **[一段可复制的 Agent Prompt](V54-Astra/github_handoff_20261117/PROMPT_ZH.md)**
+- [当前版本、编译与复现入口](V54-Astra/README.md)
+
+当前双文件位于 `V54-Astra/round8_release_111315/source/`。R11中的J活动门控已经否决，参考驱动增量方案尚未实现。原 `versions/V54` 保留2026-11-13快照；旧main中的V51/V53现场表格是历史记录，不代表2026-11-17现场版本已重新核实。
+
+下面保留旧仓库说明，便于追溯。
+
+---
+
+# GZMetro ModalSelfCal
+
 广州地铁模态自校准算法协同开发仓库。源码导入日期：2026-11-11。
 
 | 线路 | 当前上线版本 | 状态来源 |
