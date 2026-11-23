@@ -1,0 +1,19 @@
+{
+  "name": "ex2_lightweight_adapter",
+  "history_days": 30,
+  "parameters_per_axis_and_marker": 2,
+  "parameter_type": "float32",
+  "initial_endpoint_bias_mm": 0.0,
+  "initial_endpoint_scale_mm": 0.04,
+  "sgd_step_per_qualified_block": 0.10,
+  "anchor_penalty": 0.20,
+  "day_winsor_limit_mm": 0.30,
+  "minimum_history_days": 2,
+  "reliability_count_offset": 4.0,
+  "reliability_spread_scale_mm": 0.35,
+  "history_cap_mm": 1.50,
+  "local_scale_multiplier": 3.0,
+  "history_gain": 0.07,
+  "local_gain": 0.02,
+  "external_weight_file_bytes": 0
+}
