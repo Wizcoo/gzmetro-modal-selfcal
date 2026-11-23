@@ -30,8 +30,11 @@ for s in m['sources']:
             start=1793808000000;end=1794412800000
             try:
                 expected=c.execute(f'SELECT count(*),min("{tc}"),max("{tc}") FROM {q} WHERE "{tc}">=? AND "{tc}"<?',(start,end)).fetchone()
-                if tuple(expected)!=(table_rows,lo,hi):raise ValueError(f'Source count/time mismatch: {s["source_id"]} {t["table"]}: {expected} vs {(table_rows,lo,hi)}')
-                checks.append({'line':s['line'],'source':s['source_id'],'table':t['table'],'source_count':'PASS'})
+                if tuple(expected)!=(table_rows,lo,hi):
+                    if t['status']!='partial_corrupt' or expected[0]<table_rows:
+                        raise ValueError(f'Source count/time mismatch: {s["source_id"]} {t["table"]}: {expected} vs {(table_rows,lo,hi)}')
+                    checks.append({'line':s['line'],'source':s['source_id'],'table':t['table'],'source_count':'partial_corrupt','source_rows':expected[0],'exported_rows':table_rows,'unexported_rows':expected[0]-table_rows})
+                else:checks.append({'line':s['line'],'source':s['source_id'],'table':t['table'],'source_count':'PASS'})
             except sqlite3.DatabaseError as e:
                 checks.append({'line':s['line'],'source':s['source_id'],'table':t['table'],'source_count':'unavailable_corrupt_source','error':str(e)})
             finally:c.close()
