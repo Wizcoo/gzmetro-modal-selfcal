@@ -1,0 +1,398 @@
+{
+  "device": "780638327479",
+  "line": "left",
+  "first": "2026-10-16T00:00:08+08:00",
+  "last": "2026-11-23T14:07:24+08:00",
+  "frames": 53234,
+  "minutes": 53217,
+  "channel_union": 55,
+  "gaps_over_30min": [
+    [
+      "2026-10-23T18:21:00+08:00",
+      "2026-10-23T19:52:00+08:00"
+    ],
+    [
+      "2026-10-30T09:29:00+08:00",
+      "2026-10-30T16:12:00+08:00"
+    ],
+    [
+      "2026-11-01T09:13:00+08:00",
+      "2026-11-01T12:34:00+08:00"
+    ],
+    [
+      "2026-11-06T11:36:00+08:00",
+      "2026-11-07T14:33:00+08:00"
+    ]
+  ],
+  "valid_x": 2852945,
+  "valid_y": 2852945,
+  "read_rows": 2880220,
+  "unique_cells": 2880216,
+  "conflicting_axes_excluded": {
+    "x": 0,
+    "y": 0
+  },
+  "epochs": [
+    {
+      "start": "2026-10-16T00:00:08+08:00",
+      "end": "2026-10-23T20:50:14+08:00",
+      "points": 55,
+      "frames": 11210,
+      "admitted": [
+        "ZJ5",
+        "ZJ6",
+        "ZJ7",
+        "ZJ8",
+        "ZD3401",
+        "ZD3501",
+        "ZD3601",
+        "ZD3701",
+        "ZD3801",
+        "ZD3901",
+        "ZD4001",
+        "ZD4101",
+        "ZD4201",
+        "ZD4301",
+        "ZD4401",
+        "ZD4501",
+        "ZD3502",
+        "ZD3602",
+        "ZD3702",
+        "ZD3802",
+        "ZD3902",
+        "ZD4002",
+        "ZD4102",
+        "ZD4202",
+        "ZD4302",
+        "ZD4402",
+        "ZD4502",
+        "ZD4602",
+        "ZD4702",
+        "ZD3503",
+        "ZD3603",
+        "ZD3703",
+        "ZD3803",
+        "ZD3903",
+        "ZD4003",
+        "ZD4103",
+        "ZD4203",
+        "ZD4303",
+        "ZD4403",
+        "ZD4503",
+        "ZD4603",
+        "ZD4703",
+        "ZD3204",
+        "ZD4104",
+        "ZD3505",
+        "ZD3605",
+        "ZD3705",
+        "ZD3805",
+        "ZD3905",
+        "ZD4005",
+        "ZD4105",
+        "ZD4205",
+        "ZD4305",
+        "ZD4405",
+        "ZXJ6"
+      ],
+      "removed": [],
+      "rss_pre_init": 6270976,
+      "rss_peak": 7118848,
+      "process_us": 520609.0,
+      "max_us": 3099.4,
+      "final_state_bytes": 232673,
+      "states": {
+        "x": {
+          "BASELINE": 420,
+          "CORRECTING": 3038,
+          "PASSTHROUGH": 6852,
+          "RAMP": 279,
+          "WAIT_MODES": 621
+        },
+        "y": {
+          "BASELINE": 420,
+          "CORRECTING": 3038,
+          "PASSTHROUGH": 6852,
+          "RAMP": 279,
+          "WAIT_MODES": 621
+        }
+      }
+    },
+    {
+      "start": "2026-10-23T20:51:14+08:00",
+      "end": "2026-11-19T19:09:03+08:00",
+      "points": 54,
+      "frames": 36565,
+      "admitted": [],
+      "removed": [
+        "ZD4702"
+      ],
+      "rss_pre_init": 6258688,
+      "rss_peak": 7090176,
+      "process_us": 1720450.0,
+      "max_us": 4094.5,
+      "final_state_bytes": 224435,
+      "states": {
+        "x": {
+          "BASELINE": 1561,
+          "CORRECTING": 11780,
+          "PASSTHROUGH": 22005,
+          "RAMP": 1039,
+          "WAIT_MODES": 180
+        },
+        "y": {
+          "BASELINE": 1561,
+          "CORRECTING": 11780,
+          "PASSTHROUGH": 22005,
+          "RAMP": 1039,
+          "WAIT_MODES": 180
+        }
+      }
+    },
+    {
+      "start": "2026-11-19T19:10:03+08:00",
+      "end": "2026-11-23T14:07:24+08:00",
+      "points": 53,
+      "frames": 5459,
+      "admitted": [],
+      "removed": [
+        "ZXJ6"
+      ],
+      "rss_pre_init": 6275072,
+      "rss_peak": 7057408,
+      "process_us": 257446.0,
+      "max_us": 2899.4,
+      "final_state_bytes": 216247,
+      "states": {
+        "x": {
+          "BASELINE": 240,
+          "CORRECTING": 1661,
+          "PASSTHROUGH": 3219,
+          "RAMP": 159,
+          "WAIT_MODES": 180
+        },
+        "y": {
+          "BASELINE": 240,
+          "CORRECTING": 1661,
+          "PASSTHROUGH": 3219,
+          "RAMP": 159,
+          "WAIT_MODES": 180
+        }
+      }
+    }
+  ],
+  "shards": [
+    {
+      "shard": "1792023007323_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-16T00:00:00+08:00",
+      "line_source_hi": "2026-10-17T05:57:13+08:00",
+      "rows": 98450,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792023007323_DataBaseFile_2.db",
+      "line_source_lo": "2026-10-17T05:58:13+08:00",
+      "line_source_hi": "2026-10-19T03:38:43+08:00",
+      "rows": 150645,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792023007323_DataBaseFile_3.db",
+      "line_source_lo": "2026-10-19T03:39:43+08:00",
+      "line_source_hi": "2026-10-21T01:12:45+08:00",
+      "rows": 150370,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792023007323_DataBaseFile_4.db",
+      "line_source_lo": "2026-10-21T01:13:45+08:00",
+      "line_source_hi": "2026-10-22T11:57:29+08:00",
+      "rows": 114510,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792641541400_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-22T12:05:09+08:00",
+      "line_source_hi": "2026-10-23T08:04:14+08:00",
+      "rows": 65835,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792714025666_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-23T08:10:10+08:00",
+      "line_source_hi": "2026-10-23T18:21:05+08:00",
+      "rows": 33495,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-23T19:52:14+08:00",
+      "line_source_hi": "2026-10-25T13:11:15+08:00",
+      "rows": 133920,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_2.db",
+      "line_source_lo": "2026-10-25T13:12:15+08:00",
+      "line_source_hi": "2026-10-27T06:10:17+08:00",
+      "rows": 132786,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_3.db",
+      "line_source_lo": "2026-10-27T06:11:17+08:00",
+      "line_source_hi": "2026-10-28T23:09:19+08:00",
+      "rows": 132786,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_4.db",
+      "line_source_lo": "2026-10-16T00:00:00+08:00",
+      "line_source_hi": "2026-11-23T23:59:59+08:00",
+      "rows": 111240,
+      "unreadable": [
+        [
+          1793323804833,
+          1795449600000,
+          "database disk image is malformed"
+        ]
+      ],
+      "failed_terminal_queries": 41345
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_5.db",
+      "line_source_lo": "2026-10-30T16:12:51+08:00",
+      "line_source_hi": "2026-11-01T09:13:43+08:00",
+      "rows": 132840,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_1.db",
+      "line_source_lo": "2026-11-01T12:34:49+08:00",
+      "line_source_hi": "2026-11-02T11:33:50+08:00",
+      "rows": 74520,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_10.db",
+      "line_source_lo": "2026-11-16T03:36:30+08:00",
+      "line_source_hi": "2026-11-17T20:35:22+08:00",
+      "rows": 133218,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_11.db",
+      "line_source_lo": "2026-11-17T20:36:22+08:00",
+      "line_source_hi": "2026-11-19T13:34:24+08:00",
+      "rows": 132786,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_12.db",
+      "line_source_lo": "2026-11-19T13:35:24+08:00",
+      "line_source_hi": "2026-11-21T06:48:05+08:00",
+      "rows": 131398,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_13.db",
+      "line_source_lo": "2026-11-21T06:49:05+08:00",
+      "line_source_hi": "2026-11-22T23:57:06+08:00",
+      "rows": 130857,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_14.db",
+      "line_source_lo": "2026-11-22T23:58:06+08:00",
+      "line_source_hi": "2026-11-23T14:08:24+08:00",
+      "rows": 45103,
+      "unreadable": [
+        [
+          1795414054764,
+          1795414104586,
+          "database disk image is malformed"
+        ]
+      ],
+      "failed_terminal_queries": 1
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_2.db",
+      "line_source_lo": "2026-11-02T11:34:50+08:00",
+      "line_source_hi": "2026-11-04T04:33:03+08:00",
+      "rows": 132840,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_3.db",
+      "line_source_lo": "2026-11-04T04:34:03+08:00",
+      "line_source_hi": "2026-11-05T21:32:23+08:00",
+      "rows": 132840,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_4.db",
+      "line_source_lo": "2026-11-05T21:33:23+08:00",
+      "line_source_hi": "2026-11-06T11:36:23+08:00",
+      "rows": 45527,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_5.db",
+      "line_source_lo": "2026-11-07T14:33:25+08:00",
+      "line_source_hi": "2026-11-09T07:31:26+08:00",
+      "rows": 132786,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_6.db",
+      "line_source_lo": "2026-11-09T07:32:26+08:00",
+      "line_source_hi": "2026-11-11T00:30:49+08:00",
+      "rows": 132840,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_7.db",
+      "line_source_lo": "2026-11-11T00:31:49+08:00",
+      "line_source_hi": "2026-11-12T17:37:26+08:00",
+      "rows": 133056,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_8.db",
+      "line_source_lo": "2026-11-12T17:38:26+08:00",
+      "line_source_hi": "2026-11-14T10:36:28+08:00",
+      "rows": 132786,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_9.db",
+      "line_source_lo": "2026-11-14T10:37:28+08:00",
+      "line_source_hi": "2026-11-16T03:35:30+08:00",
+      "rows": 132786,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    }
+  ]
+}
