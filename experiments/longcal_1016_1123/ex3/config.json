@@ -1,0 +1,20 @@
+{
+  "experiment": "ex3_state_space",
+  "model": "scalar random-walk bias with bounded phase forecast",
+  "history_days": 30,
+  "min_phase_days": 2,
+  "history_clip_mm": 1.0,
+  "current_innovation_clip_mm": 0.75,
+  "phase_coefficient": 0.35,
+  "innovation_coefficient": 0.08,
+  "confidence_count_pseudocount": 3.0,
+  "confidence_spread_scale_mm": 0.5,
+  "process_variance_mm2_per_eligible_frame": 0.0025,
+  "prior_and_observation_floor_mm2": 0.09,
+  "observation_spread_cap_mm": 4.0,
+  "hold_delta_mm": 0.5,
+  "parameter_selection": "fixed before validation and test",
+  "external_model_file_bytes": 0,
+  "learned_weights": 0,
+  "candidate_state_bytes_per_marker_axis": 8
+}
