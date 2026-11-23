@@ -1,0 +1,15 @@
+{
+  "history_days": 30,
+  "night_phase_history_input": "causal prior days, same marker and axis",
+  "streams": [[2, 4], [3, 4]],
+  "readout": "sigmoid of concatenated ReLU embeddings; signed support capped at 0.8 mm",
+  "seed": 20261123,
+  "epochs": 48,
+  "batch_size": 512,
+  "max_fit_examples": 120000,
+  "adam_learning_rate": 0.005,
+  "huber_delta_mm": 0.15,
+  "anchor_strength": 0.02,
+  "l2_strength": 0.000003,
+  "fit_until_exclusive": "2026-11-07T08:00:00+08:00"
+}
