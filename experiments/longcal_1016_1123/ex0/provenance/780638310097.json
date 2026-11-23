@@ -1,0 +1,505 @@
+{
+  "device": "780638310097",
+  "line": "left",
+  "first": "2026-10-16T00:00:08+08:00",
+  "last": "2026-11-23T14:06:24+08:00",
+  "frames": 53226,
+  "minutes": 53212,
+  "channel_union": 98,
+  "gaps_over_30min": [
+    [
+      "2026-10-23T18:21:00+08:00",
+      "2026-10-23T19:52:00+08:00"
+    ],
+    [
+      "2026-10-30T09:31:00+08:00",
+      "2026-10-30T16:12:00+08:00"
+    ],
+    [
+      "2026-11-01T09:13:00+08:00",
+      "2026-11-01T12:34:00+08:00"
+    ],
+    [
+      "2026-11-06T11:37:00+08:00",
+      "2026-11-07T14:33:00+08:00"
+    ]
+  ],
+  "valid_x": 4996947,
+  "valid_y": 4996947,
+  "read_rows": 5029167,
+  "unique_cells": 5028880,
+  "conflicting_axes_excluded": {
+    "x": 285,
+    "y": 285
+  },
+  "epochs": [
+    {
+      "start": "2026-10-16T00:00:08+08:00",
+      "end": "2026-10-17T05:33:13+08:00",
+      "points": 98,
+      "frames": 1766,
+      "admitted": [
+        "ZD1501",
+        "ZD1601",
+        "ZD1701",
+        "ZD1901",
+        "ZD2101",
+        "ZD2201",
+        "ZD2301",
+        "ZD2401",
+        "ZD2801",
+        "ZD3001",
+        "ZD3101",
+        "ZD3201",
+        "ZD3301",
+        "ZD3401",
+        "ZD3701",
+        "ZD4001",
+        "ZD4101",
+        "ZD4401",
+        "ZD1702",
+        "ZD1902",
+        "ZD2002",
+        "ZD2102",
+        "ZD2202",
+        "ZD2302",
+        "ZD2402",
+        "ZD2502",
+        "ZD2602",
+        "ZD2702",
+        "ZD2802",
+        "ZD2902",
+        "ZD3002",
+        "ZD3102",
+        "ZD3202",
+        "ZD3302",
+        "ZD1703",
+        "ZD1803",
+        "ZD1903",
+        "ZD2003",
+        "ZD2103",
+        "ZD2203",
+        "ZD2303",
+        "ZD2403",
+        "ZD2603",
+        "ZD2703",
+        "ZD2803",
+        "ZD2903",
+        "ZD3003",
+        "ZD3103",
+        "ZD3203",
+        "ZD3303",
+        "ZD1804",
+        "ZD1904",
+        "ZD2104",
+        "ZD2204",
+        "ZD2304",
+        "ZD2404",
+        "ZD2504",
+        "ZD2704",
+        "ZD2804",
+        "ZD3004",
+        "ZD3104",
+        "ZD3204",
+        "ZD3304",
+        "ZD3404",
+        "ZD3504",
+        "ZD3604",
+        "ZD3704",
+        "ZD3804",
+        "ZD3904",
+        "ZD4004",
+        "ZD4104",
+        "ZD4204",
+        "ZD4304",
+        "ZD4404",
+        "ZD4504",
+        "ZD4604",
+        "ZD4704",
+        "ZD2105",
+        "ZD2205",
+        "ZD2305",
+        "ZD2405",
+        "ZD2505",
+        "ZD2605",
+        "ZD2705",
+        "ZD2805",
+        "ZD2905",
+        "ZD3005",
+        "ZD3105",
+        "ZD3205",
+        "ZD3305",
+        "ZD3405",
+        "ZD3505",
+        "ZD3605",
+        "ZD4005",
+        "ZD4105",
+        "ZD4205",
+        "ZD4305",
+        "ZXJ5"
+      ],
+      "removed": [],
+      "rss_pre_init": 6266880,
+      "rss_peak": 7598080,
+      "process_us": 103779.0,
+      "max_us": 15975.0,
+      "final_state_bytes": 476751,
+      "states": {
+        "x": {
+          "BASELINE": 60,
+          "CORRECTING": 193,
+          "PASSTHROUGH": 873,
+          "RAMP": 19,
+          "WAIT_MODES": 621
+        },
+        "y": {
+          "BASELINE": 60,
+          "CORRECTING": 193,
+          "PASSTHROUGH": 873,
+          "RAMP": 19,
+          "WAIT_MODES": 621
+        }
+      }
+    },
+    {
+      "start": "2026-10-17T05:34:13+08:00",
+      "end": "2026-10-18T10:29:43+08:00",
+      "points": 97,
+      "frames": 1734,
+      "admitted": [],
+      "removed": [
+        "ZD4704"
+      ],
+      "rss_pre_init": 6270976,
+      "rss_peak": 7585792,
+      "process_us": 111427.0,
+      "max_us": 25506.3,
+      "final_state_bytes": 468341,
+      "states": {
+        "x": {
+          "BASELINE": 60,
+          "CORRECTING": 279,
+          "PASSTHROUGH": 1069,
+          "RAMP": 40,
+          "WAIT_MODES": 286
+        },
+        "y": {
+          "BASELINE": 60,
+          "CORRECTING": 279,
+          "PASSTHROUGH": 1069,
+          "RAMP": 40,
+          "WAIT_MODES": 286
+        }
+      }
+    },
+    {
+      "start": "2026-10-18T10:30:43+08:00",
+      "end": "2026-10-22T13:28:54+08:00",
+      "points": 96,
+      "frames": 5926,
+      "admitted": [],
+      "removed": [
+        "ZD2802"
+      ],
+      "rss_pre_init": 6275072,
+      "rss_peak": 8327168,
+      "process_us": 371000.0,
+      "max_us": 23400.9,
+      "final_state_bytes": 691034,
+      "states": {
+        "x": {
+          "BASELINE": 240,
+          "CORRECTING": 1660,
+          "PASSTHROUGH": 3687,
+          "RAMP": 159,
+          "WAIT_MODES": 180
+        },
+        "y": {
+          "BASELINE": 240,
+          "CORRECTING": 1660,
+          "PASSTHROUGH": 3687,
+          "RAMP": 159,
+          "WAIT_MODES": 180
+        }
+      }
+    },
+    {
+      "start": "2026-10-22T13:29:54+08:00",
+      "end": "2026-10-23T20:50:14+08:00",
+      "points": 95,
+      "frames": 1783,
+      "admitted": [],
+      "removed": [
+        "ZD4305"
+      ],
+      "rss_pre_init": 6275072,
+      "rss_peak": 7524352,
+      "process_us": 104946.0,
+      "max_us": 18990.7,
+      "final_state_bytes": 255009,
+      "states": {
+        "x": {
+          "BASELINE": 60,
+          "CORRECTING": 276,
+          "DEGRADED_FRAME": 2,
+          "PASSTHROUGH": 1226,
+          "RAMP": 39,
+          "WAIT_MODES": 180
+        },
+        "y": {
+          "BASELINE": 60,
+          "CORRECTING": 276,
+          "DEGRADED_FRAME": 2,
+          "PASSTHROUGH": 1226,
+          "RAMP": 39,
+          "WAIT_MODES": 180
+        }
+      }
+    },
+    {
+      "start": "2026-10-23T20:51:14+08:00",
+      "end": "2026-11-23T14:06:24+08:00",
+      "points": 94,
+      "frames": 42017,
+      "admitted": [],
+      "removed": [
+        "ZD4401"
+      ],
+      "rss_pre_init": 6262784,
+      "rss_peak": 8278016,
+      "process_us": 2575820.0,
+      "max_us": 29680.2,
+      "final_state_bytes": 661618,
+      "states": {
+        "x": {
+          "BASELINE": 1801,
+          "CORRECTING": 13621,
+          "PASSTHROUGH": 25216,
+          "RAMP": 1199,
+          "WAIT_MODES": 180
+        },
+        "y": {
+          "BASELINE": 1801,
+          "CORRECTING": 13621,
+          "PASSTHROUGH": 25216,
+          "RAMP": 1199,
+          "WAIT_MODES": 180
+        }
+      }
+    }
+  ],
+  "shards": [
+    {
+      "shard": "1792023007323_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-16T00:00:00+08:00",
+      "line_source_hi": "2026-10-17T05:57:13+08:00",
+      "rows": 175337,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792023007323_DataBaseFile_2.db",
+      "line_source_lo": "2026-10-17T05:58:13+08:00",
+      "line_source_hi": "2026-10-19T03:38:43+08:00",
+      "rows": 264595,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792023007323_DataBaseFile_3.db",
+      "line_source_lo": "2026-10-19T03:39:43+08:00",
+      "line_source_hi": "2026-10-21T01:12:45+08:00",
+      "rows": 262464,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792023007323_DataBaseFile_4.db",
+      "line_source_lo": "2026-10-21T01:13:45+08:00",
+      "line_source_hi": "2026-10-22T11:57:29+08:00",
+      "rows": 199776,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792641541400_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-22T12:05:09+08:00",
+      "line_source_hi": "2026-10-23T08:04:14+08:00",
+      "rows": 113928,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792714025666_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-23T08:10:10+08:00",
+      "line_source_hi": "2026-10-23T18:21:05+08:00",
+      "rows": 57950,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-23T19:52:14+08:00",
+      "line_source_hi": "2026-10-25T13:10:15+08:00",
+      "rows": 233026,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_2.db",
+      "line_source_lo": "2026-10-25T13:11:15+08:00",
+      "line_source_hi": "2026-10-27T06:10:17+08:00",
+      "rows": 231240,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_3.db",
+      "line_source_lo": "2026-10-27T06:11:17+08:00",
+      "line_source_hi": "2026-10-28T23:09:19+08:00",
+      "rows": 231146,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_4.db",
+      "line_source_lo": "2026-10-28T23:10:19+08:00",
+      "line_source_hi": "2026-10-30T09:31:50+08:00",
+      "rows": 193707,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792756272950_DataBaseFile_5.db",
+      "line_source_lo": "2026-10-30T16:12:51+08:00",
+      "line_source_hi": "2026-11-01T09:13:43+08:00",
+      "rows": 231240,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_1.db",
+      "line_source_lo": "2026-11-01T12:34:49+08:00",
+      "line_source_hi": "2026-11-02T11:33:50+08:00",
+      "rows": 129720,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_10.db",
+      "line_source_lo": "2026-11-16T03:36:30+08:00",
+      "line_source_hi": "2026-11-17T20:35:22+08:00",
+      "rows": 231146,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_11.db",
+      "line_source_lo": "2026-11-17T20:36:22+08:00",
+      "line_source_hi": "2026-11-19T13:34:24+08:00",
+      "rows": 231146,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_12.db",
+      "line_source_lo": "2026-11-19T13:35:24+08:00",
+      "line_source_hi": "2026-11-21T06:48:05+08:00",
+      "rows": 232556,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_13.db",
+      "line_source_lo": "2026-11-21T06:49:05+08:00",
+      "line_source_hi": "2026-11-22T23:57:06+08:00",
+      "rows": 232086,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_14.db",
+      "line_source_lo": "2026-10-16T00:00:00+08:00",
+      "line_source_hi": "2026-11-23T23:59:59+08:00",
+      "rows": 79900,
+      "unreadable": [
+        [
+          1795414020117,
+          1795449600000,
+          "database disk image is malformed"
+        ]
+      ],
+      "failed_terminal_queries": 692
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_2.db",
+      "line_source_lo": "2026-11-02T11:34:50+08:00",
+      "line_source_hi": "2026-11-04T04:33:03+08:00",
+      "rows": 231240,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_3.db",
+      "line_source_lo": "2026-11-04T04:34:03+08:00",
+      "line_source_hi": "2026-11-05T21:32:23+08:00",
+      "rows": 231240,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_4.db",
+      "line_source_lo": "2026-11-05T21:33:23+08:00",
+      "line_source_hi": "2026-11-06T11:38:23+08:00",
+      "rows": 79430,
+      "unreadable": [
+        [
+          1793936254461,
+          1793936303974,
+          "database disk image is malformed"
+        ]
+      ],
+      "failed_terminal_queries": 1
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_5.db",
+      "line_source_lo": "2026-11-07T14:33:25+08:00",
+      "line_source_hi": "2026-11-09T07:31:26+08:00",
+      "rows": 231146,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_6.db",
+      "line_source_lo": "2026-11-09T07:32:26+08:00",
+      "line_source_hi": "2026-11-11T00:30:49+08:00",
+      "rows": 231240,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_7.db",
+      "line_source_lo": "2026-11-11T00:31:49+08:00",
+      "line_source_hi": "2026-11-12T17:37:26+08:00",
+      "rows": 231616,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_8.db",
+      "line_source_lo": "2026-11-12T17:38:26+08:00",
+      "line_source_hi": "2026-11-14T10:36:28+08:00",
+      "rows": 231146,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793507670403_DataBaseFile_9.db",
+      "line_source_lo": "2026-11-14T10:37:28+08:00",
+      "line_source_hi": "2026-11-16T03:35:30+08:00",
+      "rows": 231146,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    }
+  ]
+}

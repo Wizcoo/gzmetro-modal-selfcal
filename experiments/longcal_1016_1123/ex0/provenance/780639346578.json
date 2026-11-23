@@ -1,0 +1,467 @@
+{
+  "device": "780639346578",
+  "line": "right",
+  "first": "2026-10-16T00:00:14+08:00",
+  "last": "2026-11-23T13:58:48+08:00",
+  "frames": 52325,
+  "minutes": 52316,
+  "channel_union": 101,
+  "gaps_over_30min": [
+    [
+      "2026-10-16T09:29:00+08:00",
+      "2026-10-18T09:14:00+08:00"
+    ],
+    [
+      "2026-10-20T09:30:00+08:00",
+      "2026-10-20T11:34:00+08:00"
+    ],
+    [
+      "2026-10-23T11:47:00+08:00",
+      "2026-10-23T12:46:00+08:00"
+    ],
+    [
+      "2026-10-27T01:46:00+08:00",
+      "2026-10-27T02:19:00+08:00"
+    ],
+    [
+      "2026-10-31T04:21:00+08:00",
+      "2026-10-31T05:01:00+08:00"
+    ],
+    [
+      "2026-11-07T15:00:00+08:00",
+      "2026-11-07T16:10:00+08:00"
+    ]
+  ],
+  "valid_x": 5180044,
+  "valid_y": 5180044,
+  "read_rows": 5453858,
+  "unique_cells": 5232358,
+  "conflicting_axes_excluded": {
+    "x": 99,
+    "y": 99
+  },
+  "epochs": [
+    {
+      "start": "2026-10-16T00:00:14+08:00",
+      "end": "2026-10-27T19:09:56+08:00",
+      "points": 101,
+      "frames": 13883,
+      "admitted": [
+        "YJ5",
+        "YJ6",
+        "YJ7",
+        "YJ8",
+        "YD2004",
+        "YD2201",
+        "YD2204",
+        "YD2301",
+        "YD2401",
+        "YD2402",
+        "YD2403",
+        "YD2405",
+        "YD2501",
+        "YD2502",
+        "YD2503",
+        "YD2505",
+        "YD2601",
+        "YD2602",
+        "YD2603",
+        "YD2604",
+        "YD2605",
+        "YD2701",
+        "YD2702",
+        "YD2703",
+        "YD2705",
+        "YD2801",
+        "YD2802",
+        "YD2803",
+        "YD2805",
+        "YD2901",
+        "YD2902",
+        "YD2903",
+        "YD2905",
+        "YD3001",
+        "YD3002",
+        "YD3003",
+        "YD3005",
+        "YD3101",
+        "YD3102",
+        "YD3103",
+        "YD3104",
+        "YD3105",
+        "YD3201",
+        "YD3202",
+        "YD3203",
+        "YD3205",
+        "YD3301",
+        "YD3302",
+        "YD3303",
+        "YD3304",
+        "YD3305",
+        "YD3401",
+        "YD3402",
+        "YD3403",
+        "YD3404",
+        "YD3405",
+        "YD3501",
+        "YD3502",
+        "YD3503",
+        "YD3504",
+        "YD3505",
+        "YD3601",
+        "YD3602",
+        "YD3603",
+        "YD3604",
+        "YD3605",
+        "YD3701",
+        "YD3702",
+        "YD3703",
+        "YD3704",
+        "YD3705",
+        "YD3801",
+        "YD3802",
+        "YD3803",
+        "YD3804",
+        "YD3805",
+        "YD3901",
+        "YD3902",
+        "YD3903",
+        "YD3905",
+        "YD4002",
+        "YD4003",
+        "YD4004",
+        "YD4005",
+        "YD4101",
+        "YD4102",
+        "YD4103",
+        "YD4105",
+        "YD4201",
+        "YD4205",
+        "YD4301",
+        "YD4305",
+        "YD4401",
+        "YD4405",
+        "YD4501",
+        "YD4601",
+        "YD4605",
+        "YD4701",
+        "YD4705",
+        "YXJ5",
+        "YXJ6"
+      ],
+      "removed": [],
+      "rss_pre_init": 6279168,
+      "rss_peak": 8531968,
+      "process_us": 925513.0,
+      "max_us": 23871.5,
+      "final_state_bytes": 760586,
+      "states": {
+        "x": {
+          "BASELINE": 540,
+          "CORRECTING": 3912,
+          "PASSTHROUGH": 8452,
+          "RAMP": 359,
+          "WAIT_MODES": 620
+        },
+        "y": {
+          "BASELINE": 540,
+          "CORRECTING": 3912,
+          "PASSTHROUGH": 8452,
+          "RAMP": 359,
+          "WAIT_MODES": 620
+        }
+      }
+    },
+    {
+      "start": "2026-10-27T19:10:56+08:00",
+      "end": "2026-11-18T18:39:14+08:00",
+      "points": 100,
+      "frames": 31522,
+      "admitted": [],
+      "removed": [
+        "YD3403"
+      ],
+      "rss_pre_init": 6356992,
+      "rss_peak": 8519680,
+      "process_us": 2174020.0,
+      "max_us": 23567.0,
+      "final_state_bytes": 735649,
+      "states": {
+        "x": {
+          "BASELINE": 1320,
+          "CORRECTING": 9900,
+          "PASSTHROUGH": 19243,
+          "RAMP": 879,
+          "WAIT_MODES": 180
+        },
+        "y": {
+          "BASELINE": 1320,
+          "CORRECTING": 9900,
+          "PASSTHROUGH": 19243,
+          "RAMP": 879,
+          "WAIT_MODES": 180
+        }
+      }
+    },
+    {
+      "start": "2026-11-18T18:40:14+08:00",
+      "end": "2026-11-23T13:58:48+08:00",
+      "points": 98,
+      "frames": 6920,
+      "admitted": [],
+      "removed": [
+        "YD3104",
+        "YD3405"
+      ],
+      "rss_pre_init": 6275072,
+      "rss_peak": 8400896,
+      "process_us": 491593.0,
+      "max_us": 18580.6,
+      "final_state_bytes": 718296,
+      "states": {
+        "x": {
+          "BASELINE": 300,
+          "CORRECTING": 2120,
+          "PASSTHROUGH": 4121,
+          "RAMP": 199,
+          "WAIT_MODES": 180
+        },
+        "y": {
+          "BASELINE": 300,
+          "CORRECTING": 2120,
+          "PASSTHROUGH": 4121,
+          "RAMP": 199,
+          "WAIT_MODES": 180
+        }
+      }
+    }
+  ],
+  "shards": [
+    {
+      "shard": "1788900326285_DataBaseFile_20.db",
+      "line_source_lo": "2026-10-16T00:00:00+08:00",
+      "line_source_hi": "2026-10-16T09:29:15+08:00",
+      "rows": 57469,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792285883977_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-18T09:14:28+08:00",
+      "line_source_hi": "2026-10-20T00:27:08+08:00",
+      "rows": 237552,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792285883977_DataBaseFile_2.db",
+      "line_source_lo": "2026-10-20T00:28:08+08:00",
+      "line_source_hi": "2026-10-21T17:13:14+08:00",
+      "rows": 234623,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792285883977_DataBaseFile_3.db",
+      "line_source_lo": "2026-10-21T17:14:14+08:00",
+      "line_source_hi": "2026-10-23T08:00:08+08:00",
+      "rows": 234724,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792285883977_DataBaseFile_4.db",
+      "line_source_lo": "2026-10-23T08:01:08+08:00",
+      "line_source_hi": "2026-10-23T11:47:08+08:00",
+      "rows": 21816,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792730605004_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-23T12:46:29+08:00",
+      "line_source_hi": "2026-10-25T03:51:31+08:00",
+      "rows": 236946,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792730605004_DataBaseFile_2.db",
+      "line_source_lo": "2026-10-25T03:52:31+08:00",
+      "line_source_hi": "2026-10-26T18:38:33+08:00",
+      "rows": 235027,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1792730605004_DataBaseFile_3.db",
+      "line_source_lo": "2026-10-26T18:39:33+08:00",
+      "line_source_hi": "2026-10-27T06:04:40+08:00",
+      "rows": 65650,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_1.db",
+      "line_source_lo": "2026-10-27T06:14:46+08:00",
+      "line_source_hi": "2026-10-28T21:27:58+08:00",
+      "rows": 236117,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_10.db",
+      "line_source_lo": "2026-11-10T22:24:04+08:00",
+      "line_source_hi": "2026-11-12T13:30:45+08:00",
+      "rows": 234800,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_11.db",
+      "line_source_lo": "2026-11-12T13:31:45+08:00",
+      "line_source_hi": "2026-11-14T04:37:47+08:00",
+      "rows": 234700,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_12.db",
+      "line_source_lo": "2026-11-14T04:38:47+08:00",
+      "line_source_hi": "2026-11-15T19:44:49+08:00",
+      "rows": 234700,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_13.db",
+      "line_source_lo": "2026-11-15T19:45:49+08:00",
+      "line_source_hi": "2026-11-17T10:51:51+08:00",
+      "rows": 234700,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_14.db",
+      "line_source_lo": "2026-11-17T10:52:51+08:00",
+      "line_source_hi": "2026-11-18T17:22:53+08:00",
+      "rows": 183200,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_2.db",
+      "line_source_lo": "2026-10-28T21:28:58+08:00",
+      "line_source_hi": "2026-10-30T12:26:00+08:00",
+      "rows": 233800,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_3.db",
+      "line_source_lo": "2026-10-30T12:27:00+08:00",
+      "line_source_hi": "2026-11-01T03:32:14+08:00",
+      "rows": 230700,
+      "unreadable": [
+        [
+          1793391722697,
+          1793394024415,
+          "database disk image is malformed"
+        ]
+      ],
+      "failed_terminal_queries": 67
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_4.db",
+      "line_source_lo": "2026-11-01T03:33:14+08:00",
+      "line_source_hi": "2026-11-02T18:39:16+08:00",
+      "rows": 234700,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_5.db",
+      "line_source_lo": "2026-11-02T18:40:16+08:00",
+      "line_source_hi": "2026-11-04T09:46:18+08:00",
+      "rows": 234700,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_6.db",
+      "line_source_lo": "2026-11-04T09:47:18+08:00",
+      "line_source_hi": "2026-11-06T01:02:42+08:00",
+      "rows": 235400,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_7 - 副本.db",
+      "line_source_lo": "2026-11-06T01:03:42+08:00",
+      "line_source_hi": "2026-11-07T15:00:00+08:00",
+      "rows": 227800,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_7.db",
+      "line_source_lo": "2026-10-16T00:00:00+08:00",
+      "line_source_hi": "2026-11-23T23:59:59+08:00",
+      "rows": 221400,
+      "unreadable": [
+        [
+          1794030980712,
+          1795449600000,
+          "database disk image is malformed"
+        ]
+      ],
+      "failed_terminal_queries": 27591
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_8.db",
+      "line_source_lo": "2026-11-07T16:10:00+08:00",
+      "line_source_hi": "2026-11-09T07:16:02+08:00",
+      "rows": 234700,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1793052366195_DataBaseFile_9.db",
+      "line_source_lo": "2026-11-09T07:17:02+08:00",
+      "line_source_hi": "2026-11-10T22:23:04+08:00",
+      "rows": 234700,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1794993981365_DataBaseFile_1.db",
+      "line_source_lo": "2026-11-18T17:42:58+08:00",
+      "line_source_hi": "2026-11-20T09:25:16+08:00",
+      "rows": 233926,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1794993981365_DataBaseFile_2.db",
+      "line_source_lo": "2026-11-20T09:26:16+08:00",
+      "line_source_hi": "2026-11-22T00:46:46+08:00",
+      "rows": 231272,
+      "unreadable": [],
+      "failed_terminal_queries": 0
+    },
+    {
+      "shard": "1794993981365_DataBaseFile_3.db",
+      "line_source_lo": "2026-11-22T00:47:46+08:00",
+      "line_source_hi": "2026-11-23T13:59:48+08:00",
+      "rows": 218736,
+      "unreadable": [
+        [
+          1795413555932,
+          1795413588628,
+          "database disk image is malformed"
+        ]
+      ],
+      "failed_terminal_queries": 1
+    }
+  ]
+}
