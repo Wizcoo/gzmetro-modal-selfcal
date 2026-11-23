@@ -1,0 +1,81 @@
+{
+  "timezone": "Asia/Shanghai",
+  "window_local": "22:00–次日08:00",
+  "main_numeric_precision": "7 decimal places in mm; scale retains 17 significant digits",
+  "camera_only_timestamp_ms": 1795377727155,
+  "cross_partition_y0_timestamp_ms": 1795214885202,
+  "partitions": [
+    {
+      "night": "2026-11-19",
+      "line": "left",
+      "camera_frames": 600,
+      "camera_rows": 152400,
+      "y0_frames": 600,
+      "marker_y0_rows": 114600,
+      "node_y0_rows": 3600
+    },
+    {
+      "night": "2026-11-19",
+      "line": "right",
+      "camera_frames": 600,
+      "camera_rows": 160800,
+      "y0_frames": 600,
+      "marker_y0_rows": 120000,
+      "node_y0_rows": 3600
+    },
+    {
+      "night": "2026-11-20",
+      "line": "left",
+      "camera_frames": 600,
+      "camera_rows": 152400,
+      "y0_frames": 600,
+      "marker_y0_rows": 114600,
+      "node_y0_rows": 3600
+    },
+    {
+      "night": "2026-11-20",
+      "line": "right",
+      "camera_frames": 600,
+      "camera_rows": 160800,
+      "y0_frames": 600,
+      "marker_y0_rows": 120000,
+      "node_y0_rows": 3600
+    },
+    {
+      "night": "2026-11-21",
+      "line": "left",
+      "camera_frames": 600,
+      "camera_rows": 152400,
+      "y0_frames": 600,
+      "marker_y0_rows": 114600,
+      "node_y0_rows": 3600
+    },
+    {
+      "night": "2026-11-21",
+      "line": "right",
+      "camera_frames": 600,
+      "camera_rows": 160800,
+      "y0_frames": 600,
+      "marker_y0_rows": 120000,
+      "node_y0_rows": 3600
+    },
+    {
+      "night": "2026-11-22",
+      "line": "left",
+      "camera_frames": 601,
+      "camera_rows": 152654,
+      "y0_frames": 600,
+      "marker_y0_rows": 114600,
+      "node_y0_rows": 3600
+    },
+    {
+      "night": "2026-11-22",
+      "line": "right",
+      "camera_frames": 600,
+      "camera_rows": 160800,
+      "y0_frames": 600,
+      "marker_y0_rows": 120000,
+      "node_y0_rows": 3600
+    }
+  ]
+}

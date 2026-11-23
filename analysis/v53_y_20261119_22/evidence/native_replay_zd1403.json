@@ -1,0 +1,121 @@
+{
+  "device_id": "780638271319",
+  "point": "ZD1403",
+  "seed_timestamp_ms": 1795083152141,
+  "math_config": "8,22,23,26,31,20,60,3,0.5,3,3,0.80000000000000004,0.59999999999999998,10,5,2.5,0,1:2:YJ:2:ZJ",
+  "core_local_window": "23:20 to next day 07:00",
+  "nights": [
+    {
+      "night": "2026-11-19",
+      "history": [
+        [
+          "2026-11-16",
+          230,
+          239
+        ],
+        [
+          "2026-11-17",
+          227,
+          240
+        ],
+        [
+          "2026-11-18",
+          196,
+          240
+        ]
+      ],
+      "point_learning_valid": 653,
+      "pooled_learning_frames": 719,
+      "point_learning_ratio": 0.9082058414464534,
+      "configured_minimum_ratio": 0.8,
+      "all_valid_observations": 15370,
+      "max_abs_replay_error_mm": 0.0,
+      "point_valid_observations": 207,
+      "point_corrected_observations": 207
+    },
+    {
+      "night": "2026-11-20",
+      "history": [
+        [
+          "2026-11-17",
+          227,
+          240
+        ],
+        [
+          "2026-11-18",
+          196,
+          240
+        ],
+        [
+          "2026-11-19",
+          167,
+          240
+        ]
+      ],
+      "point_learning_valid": 590,
+      "pooled_learning_frames": 720,
+      "point_learning_ratio": 0.8194444444444444,
+      "configured_minimum_ratio": 0.8,
+      "all_valid_observations": 15406,
+      "max_abs_replay_error_mm": 0.0,
+      "point_valid_observations": 257,
+      "point_corrected_observations": 257
+    },
+    {
+      "night": "2026-11-21",
+      "history": [
+        [
+          "2026-11-18",
+          196,
+          240
+        ],
+        [
+          "2026-11-19",
+          167,
+          240
+        ],
+        [
+          "2026-11-20",
+          200,
+          240
+        ]
+      ],
+      "point_learning_valid": 563,
+      "pooled_learning_frames": 720,
+      "point_learning_ratio": 0.7819444444444444,
+      "configured_minimum_ratio": 0.8,
+      "all_valid_observations": 15335,
+      "max_abs_replay_error_mm": 0.0,
+      "point_valid_observations": 180,
+      "point_corrected_observations": 0
+    },
+    {
+      "night": "2026-11-22",
+      "history": [
+        [
+          "2026-11-19",
+          167,
+          240
+        ],
+        [
+          "2026-11-20",
+          200,
+          240
+        ],
+        [
+          "2026-11-21",
+          149,
+          240
+        ]
+      ],
+      "point_learning_valid": 516,
+      "pooled_learning_frames": 720,
+      "point_learning_ratio": 0.7166666666666667,
+      "configured_minimum_ratio": 0.8,
+      "all_valid_observations": 15564,
+      "max_abs_replay_error_mm": 0.0,
+      "point_valid_observations": 432,
+      "point_corrected_observations": 0
+    }
+  ]
+}
