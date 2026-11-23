@@ -1,0 +1,11 @@
+{
+  "history_days_ex1": 30,
+  "history_days_ex4": 3,
+  "ex1_candidate_text_sha256": "074c0b56b374809e1f6d1e7dedac184cd85416c5168f592316fcf79166757e03",
+  "ex4_candidate_text_sha256": "3402d62ea8b7c44756c1dee6702280b134fc25c81c7a9cb812199839b92184ce",
+  "ex1_config_sha256": "49f395e677ac99611a8cb2d179ae15c222ea847452241009361c5d26863d21c3",
+  "shared_weight_header_text_sha256": "91499563f41ff96659ed48c05a1076d980689589d1b92a8fc72591e98723cd6f",
+  "shared_model_bytes": 148,
+  "shared_model_sha256": "9044ae9a4390af41455d2e6cc78a20d3af1dec486055ecc6981d55037b0f4790",
+  "ex1_fit_report_sha256": "b0f6bb2de42da6a11bf9fcb85014fa7888fc807ecfa1a581a2ece4ddecad21f3"
+}

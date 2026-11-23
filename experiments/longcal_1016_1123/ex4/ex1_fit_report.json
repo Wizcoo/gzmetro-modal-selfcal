@@ -1,0 +1,15 @@
+{
+  "finite_samples": 56735,
+  "nonzero_support_samples": 33199,
+  "fit_examples": 33199,
+  "optimizer_steps": 3120,
+  "all_training_proxy_mae_mm": 0.004829698193545096,
+  "zero_prediction_proxy_mae_mm": 0.021350804936384877,
+  "mean_abs_prediction_mm": 0.021180946082712194,
+  "nonzero_support_mean_gain": 0.22889610927029697,
+  "invalid_samples": 0,
+  "training_npz_sha256": "34a2e5cdcf58c6030cb92f8f672a5fe9b90d7768bd83bf542039f4364f5469f6",
+  "parameters": 37,
+  "model_bytes": 148,
+  "model_sha256": "9044ae9a4390af41455d2e6cc78a20d3af1dec486055ecc6981d55037b0f4790"
+}
