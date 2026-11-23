@@ -1,0 +1,43 @@
+{
+  "devices": 12,
+  "frames": 633333,
+  "valid_x": 27423341,
+  "valid_y": 27423341,
+  "read_rows": 28312231,
+  "duplicate_rows": 596271,
+  "conflicting_x": 770,
+  "conflicting_y": 770,
+  "unreadable_query_ranges": 48,
+  "roster_resets": 14,
+  "states": {
+    "x": {
+      "BASELINE": 26286,
+      "CORRECTING": 196171,
+      "DEGRADED_FRAME": 194,
+      "PASSTHROUGH": 383332,
+      "RAMP": 17429,
+      "WAIT_MODES": 9921
+    },
+    "y": {
+      "BASELINE": 26286,
+      "CORRECTING": 196169,
+      "DEGRADED_FRAME": 193,
+      "PASSTHROUGH": 383332,
+      "RAMP": 17432,
+      "WAIT_MODES": 9921
+    }
+  },
+  "v53_source_sha256": {
+    "ModalSelfCal.cpp": "1b9cfdd45f673852fceb388fd20c436af21226db17f0178a949492d764d54217",
+    "ModalSelfCal.h": "cbe62a6f78d2d9c19914616e7d16fdaea6b9dc38033708d5f0af52fa3627b59a"
+  },
+  "model_weight_bytes": 0,
+  "mean_native_ms": 0.05134276691724574,
+  "process_peak_MiB": 8.13671875,
+  "process_peak_minus_pre_init_peak_MiB": 2.1484375,
+  "max_serialized_epoch_end_state_KiB": 742.759765625,
+  "replay_exe_bytes": 440487,
+  "cpu_arch": "AMD64",
+  "system": "Windows-11-10.0.26200-SP0",
+  "independent_binary_replay_exact_match": true
+}
